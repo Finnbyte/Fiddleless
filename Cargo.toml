@@ -6,10 +6,9 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-eframe = "0.22.0"
+iced = { version = "0.9", features = ["image", "debug", "tokio"] }
 reqwest = { version = "0.11", features = ["json", "blocking"] }
 tokio = { version = "1", features = ["full"] }
-env_logger = "0.10"
 base64 = "0.21.2"
 serde = { version = "1.0.164", features = ["derive"] }
 rfd = "0.11.4"

@@ -3,19 +3,20 @@ mod requests;
 mod auth;
 mod utils;
 
+use iced::futures;
+use iced::widget::{self, column, container, image, row, text};
+use iced::{
+    Alignment, Application, Color, Command, Element, Length, Settings, Theme,
+};
+
 use auth::token::{self, read_lockfile};
-use eframe::egui;
-use requests::runes;
-use utils::windows::{self, is_league_dir, read_cache};
+use utils::windows::{self, read_cache};
 use std::thread;
 use std::path::{Path, PathBuf};
 
 use crate::auth::token::{Lockfile, construct_token};
 use crate::requests::state::LcuApi;
 use serde::Deserialize;
-
-const SCREEN_WIDTH: f32 = 320.0;
-const SCREEN_HEIGHT: f32 = 240.0;
 
 #[derive(Debug, Deserialize)]
 pub enum Role {
@@ -41,23 +42,21 @@ pub struct Champion {
     pub role: Role
 }
 
-fn main() -> Result<(), Box<dyn std::error::Error>> {
-    let options = eframe::NativeOptions {
-        initial_window_size: Some(egui::vec2(SCREEN_WIDTH, SCREEN_HEIGHT)),
-        ..Default::default()
-    };
+impl Champion {
+    fn view(&self) -> Element<Message> {
+        column![text(format!("{}", self.name)).size(40),]
+            .width(Length::Shrink)
 
+    }
+}
+
+const SCREEN_WIDTH: f32 = 320.0;
+const SCREEN_HEIGHT: f32 = 240.0;
+
+fn main() -> iced::Result {
     while windows::read_cache().is_err() {
         eframe::run_native("Fiddleless Configuration", options.clone(), Box::new(|cc| Box::new(App::new(cc, AppState::CONFIGURATOR))))?
     }
-
-    // match api.get_hovered_champion()  {
-    //     Ok(Some(champion)) => println!("Hovered champ data: {}, {}", champion.name, champion.role.as_str()),
-    //     Ok(None) => println!("Not in champion select!"),
-    //     Err(e) => panic!("{}", e)
-    // }
-
-    eframe::run_native("Fiddleless", options, Box::new(|cc| Box::new(App::new(cc, AppState::MAIN))))?;
 
 
     Ok(())
@@ -92,111 +91,123 @@ struct ConnectionRequirements {
     token: String
 }
 
-#[derive(Default)]
-struct App {
-    api: Option<LcuApi>,
-    lockfile: Option<Lockfile>,
-    league_dir_path: Option<PathBuf>,
-    selected_champion: Option<Champion>,
-    modal: Modal
+// State
+enum Fiddleless {
+    Loading,
+    Loaded { api: LcuApi },
+    LeagueNotRunningError,
+    ApiConnectionFailed,
+    CurrentlyHovering { champion: Champion },
 }
 
-impl App {
-    fn new(cc: &eframe::CreationContext<'_>, state: AppState) -> Self {
-        cc.egui_ctx.set_visuals(egui::Visuals::dark());
+// Events
+enum Message {
+    ApiConnection(Result<LcuApi, Box<dyn std::error::Error>>),
+    PickedChampion(Result<Champion, Box<dyn std::error::Error>>),
+}
 
-        match state {
-            AppState::CONFIGURATOR => {
-                Self {
-                    selected_champion: None,
-                    api: None,
-                    lockfile: None,
-                    league_dir_path: None,
-                    modal: Modal { is_open: false, title: "!!!".into(), header: "".into(), text: "".into() },
-                }
+//#[derive(Default)]
+//struct App {
+//    api: Option<LcuApi>,
+//    lockfile: Option<Lockfile>,
+//    league_dir_path: Option<PathBuf>,
+//    selected_champion: Option<Champion>,
+//    modal: Modal
+//}
+
+enum FiddlelessError {
+    LeagueNotRunningError,
+    ApiConnectionFailed,
+}
+
+impl Application for Fiddleless {
+    type Message = Message;
+    type Theme = Theme;
+    type Executor = iced::executor::Default;
+    type Flags = ();
+
+    fn new(_flags: ()) -> (Fiddleless, Command<Message>) {
+        (
+            Fiddleless::Loading,
+            Command::perform(LcuApi::try_establish_connection(), Message::Loaded),
+        )
+    }
+
+    fn title(&self) -> String {
+        let subtitle = match self {
+            Fiddleless::Loading => "Loading",
+            Fiddleless::Loaded { api, .. } => &api.token,
+            Fiddleless::LeagueNotRunningErrorL { .. } => "Hey!",
+            Fiddleless::ApiConnectionFailed { .. } => "Whoops! An error occured while trying to communicate with LCU!",
+        };
+
+        format!("{subtitle} - Fiddleless")
+    }
+
+    fn update(&mut self, message: Message) -> Command<Message> {
+        match message {
+            Message::PickedChampion(Ok(champion)) => {
+                *self = Fiddleless::Champion { champion };
+
+                Command::none()
             }
-
-            AppState::MAIN => {
-                // Setup
-                let league_dir_path = windows::read_cache().ok();
-                let lockfile: Option<Lockfile> = match token::read_lockfile(league_dir_path.as_ref().unwrap().as_path()) {
-                    Ok(lockfile) => Some(lockfile),
-                    Err(_e) => None
-                };
-                let api: Option<LcuApi> = match lockfile {
-                    Some(ref lockfile) => Some(LcuApi::new(&token::construct_token(&lockfile.password), lockfile.port)),
-                    _ => None,
-                };
-
-                Self {
-                    selected_champion: None,
-                    lockfile,
-                    api,
-                    league_dir_path,
-                    modal: Modal { is_open: false, title: "!!!".into(), header: "".into(), text: "".into() },
-                }
+            Message::ApiConnection(Ok(api)) => {
+                *self = Fiddleless::Loaded { api }
             }
+            Message::ApiConnection(Err(e)) => {
+                *self = match e {
+                    FiddlelessError::LeagueNotRunningError => Self::LeagueNotRunningError,
+                    FiddlelessError::ApiConnectionFailed => Self::ApiConnectionFailed,
+                };
+
+                Command::none()
+            }
+            Message::Search => match self {
+                Fiddleless::Loading => Command::none(),
+                _ => {
+                    *self = Fiddleless::Loading;
+
+                    Command::perform(LcuApi::try_establish_connection(), )
+                }
+            },
         }
     }
-}
 
-impl eframe::App for App {
-    fn update(&mut self, ctx: &egui::Context, _frame: &mut eframe::Frame) {
-        if self.modal.is_open {
-            egui::Window::new(&*self.modal.title)
-                .open(&mut self.modal.is_open)
-                .show(ctx, |ui| {
-                    ui.heading(&*self.modal.header);
-                    ui.label(&self.modal.text);
-                });
-        }
-        egui::CentralPanel::default().show(ctx, |ui| {
-            if self.league_dir_path.is_none() {
-                ui.heading("Pick your League Of Legends directory location");
-                ui.label("This is needed for this software to function.");
-
-                if ui.button("Pick folder…").clicked() {
-                    if let Some(path) = rfd::FileDialog::new().pick_folder() {
-                        self.league_dir_path = Some(path);
-                    }
-                }
-
-                if let Some(picked_dir_path) = &self.league_dir_path {
-                    if windows::is_league_dir(picked_dir_path.to_path_buf()) {
-                        let _ = windows::create_cache(picked_dir_path);
-                        _frame.close()
-                    } else {
-                        self.league_dir_path = None; // Not resetting this causes infinite loop of modals spawning
-                        self.modal.set_content("Invalid directory given", "This directory isn't a valid LoL game folder.");
-                        self.modal.set_visibility(true);
-                    }
-                }
-            } else { // Main state
-                if self.lockfile.is_none() {
-                    ui.heading("League Of Legends not running");
-                    ui.label("Please start League before starting Fiddleless.");
-                    if ui.button("Close").clicked() {
-                        _frame.close()
-                    }
-                    return
-                } else if self.lockfile.is_some() && self.api.is_none() {
-                    self.api = Some(LcuApi::new(&token::construct_token(
-                        &self.lockfile.as_ref().unwrap().password), 
-                        self.lockfile.as_ref().unwrap().port));
-                }
-
-                ui.heading("Welcome to Fiddleless");
-
-                let hovered_champion_name = match self.api.as_ref().expect("API not defined").get_hovered_champion()  {
-                    Ok(Some(champion)) => champion.name,
-                    Ok(None) => "Not in champion select!".to_string(),
-                    Err(_e) => "seksiä".into()
-                };
-
-                ui.label(hovered_champion_name);
-                
-                thread::sleep(std::time::Duration::from_millis(500));
+    fn view(&self) -> Element<Message> {
+        let content = match self {
+            Fiddleless::Loading => {
+                column![text("Attempting connection with League Client...").size(40),]
+                    .width(Length::Shrink)
             }
-        });
+            Fiddleless::Loaded { api } => column![
+                column![text("Connection with LCU is established. Token: ", api.token)]
+                button("Keep searching!").on_press(Message::Search)
+            ]
+            .max_width(500)
+            .spacing(20)
+            .align_items(Alignment::End),
+            Fiddleless::CurrentlyHovering { champion } => column![
+                champion.view()
+            ]
+            .max_width(500)
+            .spacing(20)
+            .align_items(Alignment::End),
+            Fiddleless::LeagueNotRunningError => column![
+                text("League of Legends is not running! Start League and press the bottom below").size(40),
+                button("Restart this app")
+            ]
+            .spacing(20)
+            .align_items(Alignment::End),
+            Fiddleless::ApiConnectionFailed => column![
+                text("An error occured while trying to communicate with LCU!").size(40),
+            ]
+        };
+
+        container(content)
+            .width(Length::Fill)
+            .height(Length::Fill)
+            .center_x()
+            .center_y()
+            .into()
     }
 }
