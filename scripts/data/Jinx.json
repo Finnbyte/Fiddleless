@@ -1,0 +1,291 @@
+{
+  "name": "Jinx",
+  "current_patch": "13.12",
+  "roles": [
+    {
+      "role": "adc",
+      "paths": [
+        [
+          "Precision",
+          8000
+        ],
+        [
+          "Sorcery",
+          8200
+        ]
+      ],
+      "keystone": [
+        "Lethal Tempo",
+        8008
+      ],
+      "runes": [
+        [
+          "Lethal Tempo",
+          8008
+        ],
+        [
+          "Presence of Mind",
+          8009
+        ],
+        [
+          "Legend: Bloodline",
+          9103
+        ],
+        [
+          "Coup de Grace",
+          8014
+        ],
+        [
+          "Absolute Focus",
+          8233
+        ],
+        [
+          "Gathering Storm",
+          8236
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "mid",
+      "paths": [
+        [
+          "Precision",
+          8000
+        ],
+        [
+          "Sorcery",
+          8200
+        ]
+      ],
+      "keystone": [
+        "Lethal Tempo",
+        8008
+      ],
+      "runes": [
+        [
+          "Lethal Tempo",
+          8008
+        ],
+        [
+          "Presence of Mind",
+          8009
+        ],
+        [
+          "Legend: Bloodline",
+          9103
+        ],
+        [
+          "Coup de Grace",
+          8014
+        ],
+        [
+          "Absolute Focus",
+          8233
+        ],
+        [
+          "Gathering Storm",
+          8236
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "top",
+      "paths": [
+        [
+          "Precision",
+          8000
+        ],
+        [
+          "Sorcery",
+          8200
+        ]
+      ],
+      "keystone": [
+        "Lethal Tempo",
+        8008
+      ],
+      "runes": [
+        [
+          "Lethal Tempo",
+          8008
+        ],
+        [
+          "Presence of Mind",
+          8009
+        ],
+        [
+          "Legend: Bloodline",
+          9103
+        ],
+        [
+          "Coup de Grace",
+          8014
+        ],
+        [
+          "Absolute Focus",
+          8233
+        ],
+        [
+          "Gathering Storm",
+          8236
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "support",
+      "paths": [
+        [
+          "Precision",
+          8000
+        ],
+        [
+          "Sorcery",
+          8200
+        ]
+      ],
+      "keystone": [
+        "Lethal Tempo",
+        8008
+      ],
+      "runes": [
+        [
+          "Lethal Tempo",
+          8008
+        ],
+        [
+          "Presence of Mind",
+          8009
+        ],
+        [
+          "Legend: Bloodline",
+          9103
+        ],
+        [
+          "Coup de Grace",
+          8014
+        ],
+        [
+          "Absolute Focus",
+          8233
+        ],
+        [
+          "Gathering Storm",
+          8236
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "jungle",
+      "paths": [
+        [
+          "Precision",
+          8000
+        ],
+        [
+          "Sorcery",
+          8200
+        ]
+      ],
+      "keystone": [
+        "Lethal Tempo",
+        8008
+      ],
+      "runes": [
+        [
+          "Lethal Tempo",
+          8008
+        ],
+        [
+          "Presence of Mind",
+          8009
+        ],
+        [
+          "Legend: Bloodline",
+          9103
+        ],
+        [
+          "Coup de Grace",
+          8014
+        ],
+        [
+          "Absolute Focus",
+          8233
+        ],
+        [
+          "Gathering Storm",
+          8236
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    }
+  ]
+}

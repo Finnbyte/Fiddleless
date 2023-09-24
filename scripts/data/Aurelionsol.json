@@ -1,0 +1,291 @@
+{
+  "name": "Aurelionsol",
+  "current_patch": "13.12",
+  "roles": [
+    {
+      "role": "adc",
+      "paths": [
+        [
+          "Sorcery",
+          8200
+        ],
+        [
+          "Inspiration",
+          8300
+        ]
+      ],
+      "keystone": [
+        "Arcane Comet",
+        8229
+      ],
+      "runes": [
+        [
+          "Arcane Comet",
+          8229
+        ],
+        [
+          "Manaflow Band",
+          8226
+        ],
+        [
+          "Transcendence",
+          8210
+        ],
+        [
+          "Gathering Storm",
+          8236
+        ],
+        [
+          "Magical Footwear",
+          8304
+        ],
+        [
+          "Minion Dematerializer",
+          8316
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5003
+        ]
+      ]
+    },
+    {
+      "role": "mid",
+      "paths": [
+        [
+          "Sorcery",
+          8200
+        ],
+        [
+          "Inspiration",
+          8300
+        ]
+      ],
+      "keystone": [
+        "Arcane Comet",
+        8229
+      ],
+      "runes": [
+        [
+          "Arcane Comet",
+          8229
+        ],
+        [
+          "Manaflow Band",
+          8226
+        ],
+        [
+          "Transcendence",
+          8210
+        ],
+        [
+          "Gathering Storm",
+          8236
+        ],
+        [
+          "Magical Footwear",
+          8304
+        ],
+        [
+          "Minion Dematerializer",
+          8316
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5003
+        ]
+      ]
+    },
+    {
+      "role": "top",
+      "paths": [
+        [
+          "Sorcery",
+          8200
+        ],
+        [
+          "Inspiration",
+          8300
+        ]
+      ],
+      "keystone": [
+        "Arcane Comet",
+        8229
+      ],
+      "runes": [
+        [
+          "Arcane Comet",
+          8229
+        ],
+        [
+          "Manaflow Band",
+          8226
+        ],
+        [
+          "Transcendence",
+          8210
+        ],
+        [
+          "Gathering Storm",
+          8236
+        ],
+        [
+          "Magical Footwear",
+          8304
+        ],
+        [
+          "Minion Dematerializer",
+          8316
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5003
+        ]
+      ]
+    },
+    {
+      "role": "support",
+      "paths": [
+        [
+          "Sorcery",
+          8200
+        ],
+        [
+          "Inspiration",
+          8300
+        ]
+      ],
+      "keystone": [
+        "Arcane Comet",
+        8229
+      ],
+      "runes": [
+        [
+          "Arcane Comet",
+          8229
+        ],
+        [
+          "Manaflow Band",
+          8226
+        ],
+        [
+          "Transcendence",
+          8210
+        ],
+        [
+          "Gathering Storm",
+          8236
+        ],
+        [
+          "Magical Footwear",
+          8304
+        ],
+        [
+          "Biscuit Delivery",
+          8345
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5003
+        ]
+      ]
+    },
+    {
+      "role": "jungle",
+      "paths": [
+        [
+          "Inspiration",
+          8300
+        ],
+        [
+          "Domination",
+          8100
+        ]
+      ],
+      "keystone": [
+        "First Strike",
+        8369
+      ],
+      "runes": [
+        [
+          "First Strike",
+          8369
+        ],
+        [
+          "Magical Footwear",
+          8304
+        ],
+        [
+          "Future's Market",
+          8321
+        ],
+        [
+          "Cosmic Insight",
+          8347
+        ],
+        [
+          "Ultimate Hunter",
+          8106
+        ],
+        [
+          "Eyeball Collection",
+          8138
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    }
+  ]
+}

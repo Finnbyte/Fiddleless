@@ -1,0 +1,291 @@
+{
+  "name": "Rumble",
+  "current_patch": "13.12",
+  "roles": [
+    {
+      "role": "adc",
+      "paths": [
+        [
+          "Sorcery",
+          8200
+        ],
+        [
+          "Resolve",
+          8400
+        ]
+      ],
+      "keystone": [
+        "Arcane Comet",
+        8229
+      ],
+      "runes": [
+        [
+          "Arcane Comet",
+          8229
+        ],
+        [
+          "Nimbus Cloak",
+          8275
+        ],
+        [
+          "Absolute Focus",
+          8233
+        ],
+        [
+          "Scorch",
+          8237
+        ],
+        [
+          "Unflinching",
+          8242
+        ],
+        [
+          "Bone Plating",
+          8473
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "mid",
+      "paths": [
+        [
+          "Sorcery",
+          8200
+        ],
+        [
+          "Resolve",
+          8400
+        ]
+      ],
+      "keystone": [
+        "Arcane Comet",
+        8229
+      ],
+      "runes": [
+        [
+          "Arcane Comet",
+          8229
+        ],
+        [
+          "Nimbus Cloak",
+          8275
+        ],
+        [
+          "Absolute Focus",
+          8233
+        ],
+        [
+          "Scorch",
+          8237
+        ],
+        [
+          "Unflinching",
+          8242
+        ],
+        [
+          "Bone Plating",
+          8473
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "top",
+      "paths": [
+        [
+          "Sorcery",
+          8200
+        ],
+        [
+          "Resolve",
+          8400
+        ]
+      ],
+      "keystone": [
+        "Arcane Comet",
+        8229
+      ],
+      "runes": [
+        [
+          "Arcane Comet",
+          8229
+        ],
+        [
+          "Nimbus Cloak",
+          8275
+        ],
+        [
+          "Absolute Focus",
+          8233
+        ],
+        [
+          "Scorch",
+          8237
+        ],
+        [
+          "Unflinching",
+          8242
+        ],
+        [
+          "Bone Plating",
+          8473
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "support",
+      "paths": [
+        [
+          "Sorcery",
+          8200
+        ],
+        [
+          "Domination",
+          8100
+        ]
+      ],
+      "keystone": [
+        "Arcane Comet",
+        8229
+      ],
+      "runes": [
+        [
+          "Arcane Comet",
+          8229
+        ],
+        [
+          "Nimbus Cloak",
+          8275
+        ],
+        [
+          "Absolute Focus",
+          8233
+        ],
+        [
+          "Scorch",
+          8237
+        ],
+        [
+          "Ultimate Hunter",
+          8106
+        ],
+        [
+          "Taste of Blood",
+          8139
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "jungle",
+      "paths": [
+        [
+          "Domination",
+          8100
+        ],
+        [
+          "Sorcery",
+          8200
+        ]
+      ],
+      "keystone": [
+        "Dark Harvest",
+        8128
+      ],
+      "runes": [
+        [
+          "Dark Harvest",
+          8128
+        ],
+        [
+          "Cheap Shot",
+          8126
+        ],
+        [
+          "Eyeball Collection",
+          8138
+        ],
+        [
+          "Ultimate Hunter",
+          8106
+        ],
+        [
+          "Transcendence",
+          8210
+        ],
+        [
+          "Nimbus Cloak",
+          8275
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5007
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    }
+  ]
+}

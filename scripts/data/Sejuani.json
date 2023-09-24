@@ -1,0 +1,291 @@
+{
+  "name": "Sejuani",
+  "current_patch": "13.12",
+  "roles": [
+    {
+      "role": "adc",
+      "paths": [
+        [
+          "Resolve",
+          8400
+        ],
+        [
+          "Precision",
+          8000
+        ]
+      ],
+      "keystone": [
+        "Aftershock",
+        8439
+      ],
+      "runes": [
+        [
+          "Aftershock",
+          8439
+        ],
+        [
+          "Font of Life",
+          8463
+        ],
+        [
+          "Conditioning",
+          8429
+        ],
+        [
+          "Overgrowth",
+          8451
+        ],
+        [
+          "Legend: Alacrity",
+          9104
+        ],
+        [
+          "Triumph",
+          9111
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "FLEX",
+          5002
+        ],
+        [
+          "DEFENSE",
+          5001
+        ]
+      ]
+    },
+    {
+      "role": "mid",
+      "paths": [
+        [
+          "Resolve",
+          8400
+        ],
+        [
+          "Inspiration",
+          8300
+        ]
+      ],
+      "keystone": [
+        "Grasp of the Undying",
+        8437
+      ],
+      "runes": [
+        [
+          "Grasp of the Undying",
+          8437
+        ],
+        [
+          "Demolish",
+          8446
+        ],
+        [
+          "Second Wind",
+          8444
+        ],
+        [
+          "Overgrowth",
+          8451
+        ],
+        [
+          "Biscuit Delivery",
+          8345
+        ],
+        [
+          "Cosmic Insight",
+          8347
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "FLEX",
+          5003
+        ],
+        [
+          "DEFENSE",
+          5001
+        ]
+      ]
+    },
+    {
+      "role": "top",
+      "paths": [
+        [
+          "Resolve",
+          8400
+        ],
+        [
+          "Inspiration",
+          8300
+        ]
+      ],
+      "keystone": [
+        "Grasp of the Undying",
+        8437
+      ],
+      "runes": [
+        [
+          "Grasp of the Undying",
+          8437
+        ],
+        [
+          "Demolish",
+          8446
+        ],
+        [
+          "Second Wind",
+          8444
+        ],
+        [
+          "Overgrowth",
+          8451
+        ],
+        [
+          "Biscuit Delivery",
+          8345
+        ],
+        [
+          "Cosmic Insight",
+          8347
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "FLEX",
+          5002
+        ],
+        [
+          "DEFENSE",
+          5001
+        ]
+      ]
+    },
+    {
+      "role": "support",
+      "paths": [
+        [
+          "Resolve",
+          8400
+        ],
+        [
+          "Domination",
+          8100
+        ]
+      ],
+      "keystone": [
+        "Aftershock",
+        8439
+      ],
+      "runes": [
+        [
+          "Aftershock",
+          8439
+        ],
+        [
+          "Font of Life",
+          8463
+        ],
+        [
+          "Conditioning",
+          8429
+        ],
+        [
+          "Overgrowth",
+          8451
+        ],
+        [
+          "Ultimate Hunter",
+          8106
+        ],
+        [
+          "Cheap Shot",
+          8126
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "jungle",
+      "paths": [
+        [
+          "Resolve",
+          8400
+        ],
+        [
+          "Precision",
+          8000
+        ]
+      ],
+      "keystone": [
+        "Aftershock",
+        8439
+      ],
+      "runes": [
+        [
+          "Aftershock",
+          8439
+        ],
+        [
+          "Font of Life",
+          8463
+        ],
+        [
+          "Conditioning",
+          8429
+        ],
+        [
+          "Overgrowth",
+          8451
+        ],
+        [
+          "Legend: Alacrity",
+          9104
+        ],
+        [
+          "Triumph",
+          9111
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "FLEX",
+          5002
+        ],
+        [
+          "DEFENSE",
+          5001
+        ]
+      ]
+    }
+  ]
+}

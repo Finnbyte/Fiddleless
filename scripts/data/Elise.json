@@ -1,0 +1,291 @@
+{
+  "name": "Elise",
+  "current_patch": "13.12",
+  "roles": [
+    {
+      "role": "adc",
+      "paths": [
+        [
+          "Domination",
+          8100
+        ],
+        [
+          "Sorcery",
+          8200
+        ]
+      ],
+      "keystone": [
+        "Electrocute",
+        8112
+      ],
+      "runes": [
+        [
+          "Electrocute",
+          8112
+        ],
+        [
+          "Cheap Shot",
+          8126
+        ],
+        [
+          "Eyeball Collection",
+          8138
+        ],
+        [
+          "Relentless Hunter",
+          8105
+        ],
+        [
+          "Waterwalking",
+          8232
+        ],
+        [
+          "Nimbus Cloak",
+          8275
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "mid",
+      "paths": [
+        [
+          "Domination",
+          8100
+        ],
+        [
+          "Sorcery",
+          8200
+        ]
+      ],
+      "keystone": [
+        "Electrocute",
+        8112
+      ],
+      "runes": [
+        [
+          "Electrocute",
+          8112
+        ],
+        [
+          "Cheap Shot",
+          8126
+        ],
+        [
+          "Eyeball Collection",
+          8138
+        ],
+        [
+          "Relentless Hunter",
+          8105
+        ],
+        [
+          "Waterwalking",
+          8232
+        ],
+        [
+          "Nimbus Cloak",
+          8275
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "top",
+      "paths": [
+        [
+          "Precision",
+          8000
+        ],
+        [
+          "Domination",
+          8100
+        ]
+      ],
+      "keystone": [
+        "Press the Attack",
+        8005
+      ],
+      "runes": [
+        [
+          "Press the Attack",
+          8005
+        ],
+        [
+          "Triumph",
+          9111
+        ],
+        [
+          "Legend: Alacrity",
+          9104
+        ],
+        [
+          "Coup de Grace",
+          8014
+        ],
+        [
+          "Ghost Poro",
+          8120
+        ],
+        [
+          "Sudden Impact",
+          8143
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "support",
+      "paths": [
+        [
+          "Domination",
+          8100
+        ],
+        [
+          "Sorcery",
+          8200
+        ]
+      ],
+      "keystone": [
+        "Electrocute",
+        8112
+      ],
+      "runes": [
+        [
+          "Electrocute",
+          8112
+        ],
+        [
+          "Cheap Shot",
+          8126
+        ],
+        [
+          "Eyeball Collection",
+          8138
+        ],
+        [
+          "Relentless Hunter",
+          8105
+        ],
+        [
+          "Waterwalking",
+          8232
+        ],
+        [
+          "Nimbus Cloak",
+          8275
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "jungle",
+      "paths": [
+        [
+          "Domination",
+          8100
+        ],
+        [
+          "Precision",
+          8000
+        ]
+      ],
+      "keystone": [
+        "Dark Harvest",
+        8128
+      ],
+      "runes": [
+        [
+          "Dark Harvest",
+          8128
+        ],
+        [
+          "Cheap Shot",
+          8126
+        ],
+        [
+          "Eyeball Collection",
+          8138
+        ],
+        [
+          "Relentless Hunter",
+          8105
+        ],
+        [
+          "Coup de Grace",
+          8014
+        ],
+        [
+          "Triumph",
+          9111
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    }
+  ]
+}

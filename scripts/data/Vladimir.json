@@ -1,0 +1,291 @@
+{
+  "name": "Vladimir",
+  "current_patch": "13.12",
+  "roles": [
+    {
+      "role": "adc",
+      "paths": [
+        [
+          "Sorcery",
+          8200
+        ],
+        [
+          "Inspiration",
+          8300
+        ]
+      ],
+      "keystone": [
+        "Phase Rush",
+        8230
+      ],
+      "runes": [
+        [
+          "Phase Rush",
+          8230
+        ],
+        [
+          "Nimbus Cloak",
+          8275
+        ],
+        [
+          "Transcendence",
+          8210
+        ],
+        [
+          "Gathering Storm",
+          8236
+        ],
+        [
+          "Magical Footwear",
+          8304
+        ],
+        [
+          "Cosmic Insight",
+          8347
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5007
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "DEFENSE",
+          5001
+        ]
+      ]
+    },
+    {
+      "role": "mid",
+      "paths": [
+        [
+          "Sorcery",
+          8200
+        ],
+        [
+          "Inspiration",
+          8300
+        ]
+      ],
+      "keystone": [
+        "Phase Rush",
+        8230
+      ],
+      "runes": [
+        [
+          "Phase Rush",
+          8230
+        ],
+        [
+          "Nimbus Cloak",
+          8275
+        ],
+        [
+          "Transcendence",
+          8210
+        ],
+        [
+          "Gathering Storm",
+          8236
+        ],
+        [
+          "Magical Footwear",
+          8304
+        ],
+        [
+          "Cosmic Insight",
+          8347
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5007
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "DEFENSE",
+          5001
+        ]
+      ]
+    },
+    {
+      "role": "top",
+      "paths": [
+        [
+          "Sorcery",
+          8200
+        ],
+        [
+          "Inspiration",
+          8300
+        ]
+      ],
+      "keystone": [
+        "Phase Rush",
+        8230
+      ],
+      "runes": [
+        [
+          "Phase Rush",
+          8230
+        ],
+        [
+          "Nimbus Cloak",
+          8275
+        ],
+        [
+          "Transcendence",
+          8210
+        ],
+        [
+          "Gathering Storm",
+          8236
+        ],
+        [
+          "Magical Footwear",
+          8304
+        ],
+        [
+          "Cosmic Insight",
+          8347
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5007
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "DEFENSE",
+          5001
+        ]
+      ]
+    },
+    {
+      "role": "support",
+      "paths": [
+        [
+          "Sorcery",
+          8200
+        ],
+        [
+          "Inspiration",
+          8300
+        ]
+      ],
+      "keystone": [
+        "Phase Rush",
+        8230
+      ],
+      "runes": [
+        [
+          "Phase Rush",
+          8230
+        ],
+        [
+          "Nimbus Cloak",
+          8275
+        ],
+        [
+          "Transcendence",
+          8210
+        ],
+        [
+          "Gathering Storm",
+          8236
+        ],
+        [
+          "Magical Footwear",
+          8304
+        ],
+        [
+          "Cosmic Insight",
+          8347
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5007
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "DEFENSE",
+          5001
+        ]
+      ]
+    },
+    {
+      "role": "jungle",
+      "paths": [
+        [
+          "Sorcery",
+          8200
+        ],
+        [
+          "Inspiration",
+          8300
+        ]
+      ],
+      "keystone": [
+        "Phase Rush",
+        8230
+      ],
+      "runes": [
+        [
+          "Phase Rush",
+          8230
+        ],
+        [
+          "Nimbus Cloak",
+          8275
+        ],
+        [
+          "Transcendence",
+          8210
+        ],
+        [
+          "Gathering Storm",
+          8236
+        ],
+        [
+          "Magical Footwear",
+          8304
+        ],
+        [
+          "Cosmic Insight",
+          8347
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5007
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "DEFENSE",
+          5001
+        ]
+      ]
+    }
+  ]
+}

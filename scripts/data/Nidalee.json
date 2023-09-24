@@ -1,0 +1,291 @@
+{
+  "name": "Nidalee",
+  "current_patch": "13.12",
+  "roles": [
+    {
+      "role": "adc",
+      "paths": [
+        [
+          "Precision",
+          8000
+        ],
+        [
+          "Sorcery",
+          8200
+        ]
+      ],
+      "keystone": [
+        "Fleet Footwork",
+        8021
+      ],
+      "runes": [
+        [
+          "Fleet Footwork",
+          8021
+        ],
+        [
+          "Presence of Mind",
+          8009
+        ],
+        [
+          "Legend: Alacrity",
+          9104
+        ],
+        [
+          "Coup de Grace",
+          8014
+        ],
+        [
+          "Absolute Focus",
+          8233
+        ],
+        [
+          "Gathering Storm",
+          8236
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "mid",
+      "paths": [
+        [
+          "Domination",
+          8100
+        ],
+        [
+          "Precision",
+          8000
+        ]
+      ],
+      "keystone": [
+        "Dark Harvest",
+        8128
+      ],
+      "runes": [
+        [
+          "Dark Harvest",
+          8128
+        ],
+        [
+          "Sudden Impact",
+          8143
+        ],
+        [
+          "Eyeball Collection",
+          8138
+        ],
+        [
+          "Relentless Hunter",
+          8105
+        ],
+        [
+          "Coup de Grace",
+          8014
+        ],
+        [
+          "Triumph",
+          9111
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "top",
+      "paths": [
+        [
+          "Resolve",
+          8400
+        ],
+        [
+          "Precision",
+          8000
+        ]
+      ],
+      "keystone": [
+        "Grasp of the Undying",
+        8437
+      ],
+      "runes": [
+        [
+          "Grasp of the Undying",
+          8437
+        ],
+        [
+          "Demolish",
+          8446
+        ],
+        [
+          "Bone Plating",
+          8473
+        ],
+        [
+          "Overgrowth",
+          8451
+        ],
+        [
+          "Coup de Grace",
+          8014
+        ],
+        [
+          "Triumph",
+          9111
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "support",
+      "paths": [
+        [
+          "Domination",
+          8100
+        ],
+        [
+          "Sorcery",
+          8200
+        ]
+      ],
+      "keystone": [
+        "Dark Harvest",
+        8128
+      ],
+      "runes": [
+        [
+          "Dark Harvest",
+          8128
+        ],
+        [
+          "Sudden Impact",
+          8143
+        ],
+        [
+          "Eyeball Collection",
+          8138
+        ],
+        [
+          "Treasure Hunter",
+          8135
+        ],
+        [
+          "Manaflow Band",
+          8226
+        ],
+        [
+          "Scorch",
+          8237
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "jungle",
+      "paths": [
+        [
+          "Domination",
+          8100
+        ],
+        [
+          "Sorcery",
+          8200
+        ]
+      ],
+      "keystone": [
+        "Dark Harvest",
+        8128
+      ],
+      "runes": [
+        [
+          "Dark Harvest",
+          8128
+        ],
+        [
+          "Sudden Impact",
+          8143
+        ],
+        [
+          "Eyeball Collection",
+          8138
+        ],
+        [
+          "Treasure Hunter",
+          8135
+        ],
+        [
+          "Transcendence",
+          8210
+        ],
+        [
+          "Waterwalking",
+          8232
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    }
+  ]
+}

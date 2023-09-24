@@ -1,0 +1,291 @@
+{
+  "name": "Trundle",
+  "current_patch": "13.12",
+  "roles": [
+    {
+      "role": "adc",
+      "paths": [
+        [
+          "Precision",
+          8000
+        ],
+        [
+          "Resolve",
+          8400
+        ]
+      ],
+      "keystone": [
+        "Lethal Tempo",
+        8008
+      ],
+      "runes": [
+        [
+          "Lethal Tempo",
+          8008
+        ],
+        [
+          "Triumph",
+          9111
+        ],
+        [
+          "Legend: Alacrity",
+          9104
+        ],
+        [
+          "Last Stand",
+          8299
+        ],
+        [
+          "Demolish",
+          8446
+        ],
+        [
+          "Bone Plating",
+          8473
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "mid",
+      "paths": [
+        [
+          "Precision",
+          8000
+        ],
+        [
+          "Resolve",
+          8400
+        ]
+      ],
+      "keystone": [
+        "Lethal Tempo",
+        8008
+      ],
+      "runes": [
+        [
+          "Lethal Tempo",
+          8008
+        ],
+        [
+          "Triumph",
+          9111
+        ],
+        [
+          "Legend: Alacrity",
+          9104
+        ],
+        [
+          "Last Stand",
+          8299
+        ],
+        [
+          "Demolish",
+          8446
+        ],
+        [
+          "Bone Plating",
+          8473
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "top",
+      "paths": [
+        [
+          "Precision",
+          8000
+        ],
+        [
+          "Resolve",
+          8400
+        ]
+      ],
+      "keystone": [
+        "Lethal Tempo",
+        8008
+      ],
+      "runes": [
+        [
+          "Lethal Tempo",
+          8008
+        ],
+        [
+          "Triumph",
+          9111
+        ],
+        [
+          "Legend: Alacrity",
+          9104
+        ],
+        [
+          "Last Stand",
+          8299
+        ],
+        [
+          "Demolish",
+          8446
+        ],
+        [
+          "Bone Plating",
+          8473
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "support",
+      "paths": [
+        [
+          "Inspiration",
+          8300
+        ],
+        [
+          "Resolve",
+          8400
+        ]
+      ],
+      "keystone": [
+        "Glacial Augment",
+        8351
+      ],
+      "runes": [
+        [
+          "Glacial Augment",
+          8351
+        ],
+        [
+          "Magical Footwear",
+          8304
+        ],
+        [
+          "Biscuit Delivery",
+          8345
+        ],
+        [
+          "Approach Velocity",
+          8410
+        ],
+        [
+          "Unflinching",
+          8242
+        ],
+        [
+          "Font of Life",
+          8463
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "FLEX",
+          5002
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "jungle",
+      "paths": [
+        [
+          "Precision",
+          8000
+        ],
+        [
+          "Inspiration",
+          8300
+        ]
+      ],
+      "keystone": [
+        "Lethal Tempo",
+        8008
+      ],
+      "runes": [
+        [
+          "Lethal Tempo",
+          8008
+        ],
+        [
+          "Triumph",
+          9111
+        ],
+        [
+          "Legend: Alacrity",
+          9104
+        ],
+        [
+          "Coup de Grace",
+          8014
+        ],
+        [
+          "Magical Footwear",
+          8304
+        ],
+        [
+          "Approach Velocity",
+          8410
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,291 @@
+{
+  "name": "Bard",
+  "current_patch": "13.12",
+  "roles": [
+    {
+      "role": "adc",
+      "paths": [
+        [
+          "Precision",
+          8000
+        ],
+        [
+          "Resolve",
+          8400
+        ]
+      ],
+      "keystone": [
+        "Fleet Footwork",
+        8021
+      ],
+      "runes": [
+        [
+          "Fleet Footwork",
+          8021
+        ],
+        [
+          "Triumph",
+          9111
+        ],
+        [
+          "Legend: Tenacity",
+          9105
+        ],
+        [
+          "Coup de Grace",
+          8014
+        ],
+        [
+          "Unflinching",
+          8242
+        ],
+        [
+          "Conditioning",
+          8429
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "FLEX",
+          5002
+        ],
+        [
+          "DEFENSE",
+          5001
+        ]
+      ]
+    },
+    {
+      "role": "mid",
+      "paths": [
+        [
+          "Precision",
+          8000
+        ],
+        [
+          "Sorcery",
+          8200
+        ]
+      ],
+      "keystone": [
+        "Fleet Footwork",
+        8021
+      ],
+      "runes": [
+        [
+          "Fleet Footwork",
+          8021
+        ],
+        [
+          "Triumph",
+          9111
+        ],
+        [
+          "Legend: Tenacity",
+          9105
+        ],
+        [
+          "Coup de Grace",
+          8014
+        ],
+        [
+          "Transcendence",
+          8210
+        ],
+        [
+          "Scorch",
+          8237
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "FLEX",
+          5002
+        ],
+        [
+          "DEFENSE",
+          5001
+        ]
+      ]
+    },
+    {
+      "role": "top",
+      "paths": [
+        [
+          "Precision",
+          8000
+        ],
+        [
+          "Sorcery",
+          8200
+        ]
+      ],
+      "keystone": [
+        "Fleet Footwork",
+        8021
+      ],
+      "runes": [
+        [
+          "Fleet Footwork",
+          8021
+        ],
+        [
+          "Triumph",
+          9111
+        ],
+        [
+          "Legend: Tenacity",
+          9105
+        ],
+        [
+          "Coup de Grace",
+          8014
+        ],
+        [
+          "Transcendence",
+          8210
+        ],
+        [
+          "Scorch",
+          8237
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "FLEX",
+          5002
+        ],
+        [
+          "DEFENSE",
+          5001
+        ]
+      ]
+    },
+    {
+      "role": "support",
+      "paths": [
+        [
+          "Resolve",
+          8400
+        ],
+        [
+          "Domination",
+          8100
+        ]
+      ],
+      "keystone": [
+        "Guardian",
+        8465
+      ],
+      "runes": [
+        [
+          "Guardian",
+          8465
+        ],
+        [
+          "Font of Life",
+          8463
+        ],
+        [
+          "Bone Plating",
+          8473
+        ],
+        [
+          "Unflinching",
+          8242
+        ],
+        [
+          "Relentless Hunter",
+          8105
+        ],
+        [
+          "Zombie Ward",
+          8136
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "jungle",
+      "paths": [
+        [
+          "Precision",
+          8000
+        ],
+        [
+          "Resolve",
+          8400
+        ]
+      ],
+      "keystone": [
+        "Fleet Footwork",
+        8021
+      ],
+      "runes": [
+        [
+          "Fleet Footwork",
+          8021
+        ],
+        [
+          "Triumph",
+          9111
+        ],
+        [
+          "Legend: Tenacity",
+          9105
+        ],
+        [
+          "Coup de Grace",
+          8014
+        ],
+        [
+          "Unflinching",
+          8242
+        ],
+        [
+          "Conditioning",
+          8429
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "FLEX",
+          5002
+        ],
+        [
+          "DEFENSE",
+          5001
+        ]
+      ]
+    }
+  ]
+}

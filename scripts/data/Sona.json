@@ -1,0 +1,291 @@
+{
+  "name": "Sona",
+  "current_patch": "13.12",
+  "roles": [
+    {
+      "role": "adc",
+      "paths": [
+        [
+          "Sorcery",
+          8200
+        ],
+        [
+          "Resolve",
+          8400
+        ]
+      ],
+      "keystone": [
+        "Summon Aery",
+        8214
+      ],
+      "runes": [
+        [
+          "Summon Aery",
+          8214
+        ],
+        [
+          "Manaflow Band",
+          8226
+        ],
+        [
+          "Transcendence",
+          8210
+        ],
+        [
+          "Gathering Storm",
+          8236
+        ],
+        [
+          "Conditioning",
+          8429
+        ],
+        [
+          "Revitalize",
+          8453
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "mid",
+      "paths": [
+        [
+          "Sorcery",
+          8200
+        ],
+        [
+          "Precision",
+          8000
+        ]
+      ],
+      "keystone": [
+        "Summon Aery",
+        8214
+      ],
+      "runes": [
+        [
+          "Summon Aery",
+          8214
+        ],
+        [
+          "Manaflow Band",
+          8226
+        ],
+        [
+          "Transcendence",
+          8210
+        ],
+        [
+          "Scorch",
+          8237
+        ],
+        [
+          "Presence of Mind",
+          8009
+        ],
+        [
+          "Cut Down",
+          8017
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "top",
+      "paths": [
+        [
+          "Sorcery",
+          8200
+        ],
+        [
+          "Precision",
+          8000
+        ]
+      ],
+      "keystone": [
+        "Summon Aery",
+        8214
+      ],
+      "runes": [
+        [
+          "Summon Aery",
+          8214
+        ],
+        [
+          "Manaflow Band",
+          8226
+        ],
+        [
+          "Transcendence",
+          8210
+        ],
+        [
+          "Scorch",
+          8237
+        ],
+        [
+          "Presence of Mind",
+          8009
+        ],
+        [
+          "Cut Down",
+          8017
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "support",
+      "paths": [
+        [
+          "Sorcery",
+          8200
+        ],
+        [
+          "Resolve",
+          8400
+        ]
+      ],
+      "keystone": [
+        "Summon Aery",
+        8214
+      ],
+      "runes": [
+        [
+          "Summon Aery",
+          8214
+        ],
+        [
+          "Manaflow Band",
+          8226
+        ],
+        [
+          "Transcendence",
+          8210
+        ],
+        [
+          "Gathering Storm",
+          8236
+        ],
+        [
+          "Conditioning",
+          8429
+        ],
+        [
+          "Revitalize",
+          8453
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "jungle",
+      "paths": [
+        [
+          "Precision",
+          8000
+        ],
+        [
+          "Inspiration",
+          8300
+        ]
+      ],
+      "keystone": [
+        "Conqueror",
+        8010
+      ],
+      "runes": [
+        [
+          "Conqueror",
+          8010
+        ],
+        [
+          "Triumph",
+          9111
+        ],
+        [
+          "Legend: Alacrity",
+          9104
+        ],
+        [
+          "Coup de Grace",
+          8014
+        ],
+        [
+          "Magical Footwear",
+          8304
+        ],
+        [
+          "Cosmic Insight",
+          8347
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,291 @@
+{
+  "name": "Morgana",
+  "current_patch": "13.12",
+  "roles": [
+    {
+      "role": "adc",
+      "paths": [
+        [
+          "Sorcery",
+          8200
+        ],
+        [
+          "Inspiration",
+          8300
+        ]
+      ],
+      "keystone": [
+        "Arcane Comet",
+        8229
+      ],
+      "runes": [
+        [
+          "Arcane Comet",
+          8229
+        ],
+        [
+          "Manaflow Band",
+          8226
+        ],
+        [
+          "Transcendence",
+          8210
+        ],
+        [
+          "Scorch",
+          8237
+        ],
+        [
+          "Perfect Timing",
+          8313
+        ],
+        [
+          "Biscuit Delivery",
+          8345
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "mid",
+      "paths": [
+        [
+          "Sorcery",
+          8200
+        ],
+        [
+          "Inspiration",
+          8300
+        ]
+      ],
+      "keystone": [
+        "Arcane Comet",
+        8229
+      ],
+      "runes": [
+        [
+          "Arcane Comet",
+          8229
+        ],
+        [
+          "Manaflow Band",
+          8226
+        ],
+        [
+          "Transcendence",
+          8210
+        ],
+        [
+          "Scorch",
+          8237
+        ],
+        [
+          "Perfect Timing",
+          8313
+        ],
+        [
+          "Biscuit Delivery",
+          8345
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5003
+        ]
+      ]
+    },
+    {
+      "role": "top",
+      "paths": [
+        [
+          "Sorcery",
+          8200
+        ],
+        [
+          "Inspiration",
+          8300
+        ]
+      ],
+      "keystone": [
+        "Arcane Comet",
+        8229
+      ],
+      "runes": [
+        [
+          "Arcane Comet",
+          8229
+        ],
+        [
+          "Manaflow Band",
+          8226
+        ],
+        [
+          "Transcendence",
+          8210
+        ],
+        [
+          "Scorch",
+          8237
+        ],
+        [
+          "Perfect Timing",
+          8313
+        ],
+        [
+          "Biscuit Delivery",
+          8345
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "support",
+      "paths": [
+        [
+          "Sorcery",
+          8200
+        ],
+        [
+          "Inspiration",
+          8300
+        ]
+      ],
+      "keystone": [
+        "Arcane Comet",
+        8229
+      ],
+      "runes": [
+        [
+          "Arcane Comet",
+          8229
+        ],
+        [
+          "Manaflow Band",
+          8226
+        ],
+        [
+          "Transcendence",
+          8210
+        ],
+        [
+          "Scorch",
+          8237
+        ],
+        [
+          "Perfect Timing",
+          8313
+        ],
+        [
+          "Biscuit Delivery",
+          8345
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "jungle",
+      "paths": [
+        [
+          "Domination",
+          8100
+        ],
+        [
+          "Sorcery",
+          8200
+        ]
+      ],
+      "keystone": [
+        "Dark Harvest",
+        8128
+      ],
+      "runes": [
+        [
+          "Dark Harvest",
+          8128
+        ],
+        [
+          "Cheap Shot",
+          8126
+        ],
+        [
+          "Eyeball Collection",
+          8138
+        ],
+        [
+          "Relentless Hunter",
+          8105
+        ],
+        [
+          "Transcendence",
+          8210
+        ],
+        [
+          "Waterwalking",
+          8232
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    }
+  ]
+}

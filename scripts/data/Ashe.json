@@ -1,0 +1,291 @@
+{
+  "name": "Ashe",
+  "current_patch": "13.12",
+  "roles": [
+    {
+      "role": "adc",
+      "paths": [
+        [
+          "Precision",
+          8000
+        ],
+        [
+          "Inspiration",
+          8300
+        ]
+      ],
+      "keystone": [
+        "Lethal Tempo",
+        8008
+      ],
+      "runes": [
+        [
+          "Lethal Tempo",
+          8008
+        ],
+        [
+          "Presence of Mind",
+          8009
+        ],
+        [
+          "Legend: Bloodline",
+          9103
+        ],
+        [
+          "Coup de Grace",
+          8014
+        ],
+        [
+          "Biscuit Delivery",
+          8345
+        ],
+        [
+          "Approach Velocity",
+          8410
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "mid",
+      "paths": [
+        [
+          "Precision",
+          8000
+        ],
+        [
+          "Inspiration",
+          8300
+        ]
+      ],
+      "keystone": [
+        "Lethal Tempo",
+        8008
+      ],
+      "runes": [
+        [
+          "Lethal Tempo",
+          8008
+        ],
+        [
+          "Presence of Mind",
+          8009
+        ],
+        [
+          "Legend: Bloodline",
+          9103
+        ],
+        [
+          "Coup de Grace",
+          8014
+        ],
+        [
+          "Biscuit Delivery",
+          8345
+        ],
+        [
+          "Approach Velocity",
+          8410
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "top",
+      "paths": [
+        [
+          "Precision",
+          8000
+        ],
+        [
+          "Inspiration",
+          8300
+        ]
+      ],
+      "keystone": [
+        "Lethal Tempo",
+        8008
+      ],
+      "runes": [
+        [
+          "Lethal Tempo",
+          8008
+        ],
+        [
+          "Presence of Mind",
+          8009
+        ],
+        [
+          "Legend: Bloodline",
+          9103
+        ],
+        [
+          "Coup de Grace",
+          8014
+        ],
+        [
+          "Biscuit Delivery",
+          8345
+        ],
+        [
+          "Approach Velocity",
+          8410
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "support",
+      "paths": [
+        [
+          "Domination",
+          8100
+        ],
+        [
+          "Inspiration",
+          8300
+        ]
+      ],
+      "keystone": [
+        "Hail of Blades",
+        9923
+      ],
+      "runes": [
+        [
+          "Hail of Blades",
+          9923
+        ],
+        [
+          "Cheap Shot",
+          8126
+        ],
+        [
+          "Zombie Ward",
+          8136
+        ],
+        [
+          "Ultimate Hunter",
+          8106
+        ],
+        [
+          "Biscuit Delivery",
+          8345
+        ],
+        [
+          "Approach Velocity",
+          8410
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "jungle",
+      "paths": [
+        [
+          "Precision",
+          8000
+        ],
+        [
+          "Inspiration",
+          8300
+        ]
+      ],
+      "keystone": [
+        "Lethal Tempo",
+        8008
+      ],
+      "runes": [
+        [
+          "Lethal Tempo",
+          8008
+        ],
+        [
+          "Presence of Mind",
+          8009
+        ],
+        [
+          "Legend: Bloodline",
+          9103
+        ],
+        [
+          "Coup de Grace",
+          8014
+        ],
+        [
+          "Biscuit Delivery",
+          8345
+        ],
+        [
+          "Approach Velocity",
+          8410
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    }
+  ]
+}

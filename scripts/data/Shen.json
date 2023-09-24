@@ -1,0 +1,291 @@
+{
+  "name": "Shen",
+  "current_patch": "13.12",
+  "roles": [
+    {
+      "role": "adc",
+      "paths": [
+        [
+          "Resolve",
+          8400
+        ],
+        [
+          "Domination",
+          8100
+        ]
+      ],
+      "keystone": [
+        "Grasp of the Undying",
+        8437
+      ],
+      "runes": [
+        [
+          "Grasp of the Undying",
+          8437
+        ],
+        [
+          "Shield Bash",
+          8401
+        ],
+        [
+          "Second Wind",
+          8444
+        ],
+        [
+          "Revitalize",
+          8453
+        ],
+        [
+          "Ultimate Hunter",
+          8106
+        ],
+        [
+          "Cheap Shot",
+          8126
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "mid",
+      "paths": [
+        [
+          "Resolve",
+          8400
+        ],
+        [
+          "Domination",
+          8100
+        ]
+      ],
+      "keystone": [
+        "Grasp of the Undying",
+        8437
+      ],
+      "runes": [
+        [
+          "Grasp of the Undying",
+          8437
+        ],
+        [
+          "Shield Bash",
+          8401
+        ],
+        [
+          "Second Wind",
+          8444
+        ],
+        [
+          "Revitalize",
+          8453
+        ],
+        [
+          "Ultimate Hunter",
+          8106
+        ],
+        [
+          "Cheap Shot",
+          8126
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "top",
+      "paths": [
+        [
+          "Resolve",
+          8400
+        ],
+        [
+          "Domination",
+          8100
+        ]
+      ],
+      "keystone": [
+        "Grasp of the Undying",
+        8437
+      ],
+      "runes": [
+        [
+          "Grasp of the Undying",
+          8437
+        ],
+        [
+          "Shield Bash",
+          8401
+        ],
+        [
+          "Second Wind",
+          8444
+        ],
+        [
+          "Revitalize",
+          8453
+        ],
+        [
+          "Ultimate Hunter",
+          8106
+        ],
+        [
+          "Cheap Shot",
+          8126
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "support",
+      "paths": [
+        [
+          "Resolve",
+          8400
+        ],
+        [
+          "Domination",
+          8100
+        ]
+      ],
+      "keystone": [
+        "Aftershock",
+        8439
+      ],
+      "runes": [
+        [
+          "Aftershock",
+          8439
+        ],
+        [
+          "Shield Bash",
+          8401
+        ],
+        [
+          "Second Wind",
+          8444
+        ],
+        [
+          "Revitalize",
+          8453
+        ],
+        [
+          "Ultimate Hunter",
+          8106
+        ],
+        [
+          "Cheap Shot",
+          8126
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "jungle",
+      "paths": [
+        [
+          "Sorcery",
+          8200
+        ],
+        [
+          "Inspiration",
+          8300
+        ]
+      ],
+      "keystone": [
+        "Phase Rush",
+        8230
+      ],
+      "runes": [
+        [
+          "Phase Rush",
+          8230
+        ],
+        [
+          "Nimbus Cloak",
+          8275
+        ],
+        [
+          "Transcendence",
+          8210
+        ],
+        [
+          "Waterwalking",
+          8232
+        ],
+        [
+          "Hextech Flashtraption",
+          8306
+        ],
+        [
+          "Cosmic Insight",
+          8347
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    }
+  ]
+}

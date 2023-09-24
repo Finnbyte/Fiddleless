@@ -1,0 +1,291 @@
+{
+  "name": "Teemo",
+  "current_patch": "13.12",
+  "roles": [
+    {
+      "role": "adc",
+      "paths": [
+        [
+          "Precision",
+          8000
+        ],
+        [
+          "Resolve",
+          8400
+        ]
+      ],
+      "keystone": [
+        "Press the Attack",
+        8005
+      ],
+      "runes": [
+        [
+          "Press the Attack",
+          8005
+        ],
+        [
+          "Triumph",
+          9111
+        ],
+        [
+          "Legend: Alacrity",
+          9104
+        ],
+        [
+          "Last Stand",
+          8299
+        ],
+        [
+          "Overgrowth",
+          8451
+        ],
+        [
+          "Bone Plating",
+          8473
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "mid",
+      "paths": [
+        [
+          "Precision",
+          8000
+        ],
+        [
+          "Resolve",
+          8400
+        ]
+      ],
+      "keystone": [
+        "Press the Attack",
+        8005
+      ],
+      "runes": [
+        [
+          "Press the Attack",
+          8005
+        ],
+        [
+          "Triumph",
+          9111
+        ],
+        [
+          "Legend: Alacrity",
+          9104
+        ],
+        [
+          "Last Stand",
+          8299
+        ],
+        [
+          "Overgrowth",
+          8451
+        ],
+        [
+          "Bone Plating",
+          8473
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "top",
+      "paths": [
+        [
+          "Precision",
+          8000
+        ],
+        [
+          "Resolve",
+          8400
+        ]
+      ],
+      "keystone": [
+        "Press the Attack",
+        8005
+      ],
+      "runes": [
+        [
+          "Press the Attack",
+          8005
+        ],
+        [
+          "Triumph",
+          9111
+        ],
+        [
+          "Legend: Alacrity",
+          9104
+        ],
+        [
+          "Last Stand",
+          8299
+        ],
+        [
+          "Overgrowth",
+          8451
+        ],
+        [
+          "Bone Plating",
+          8473
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "support",
+      "paths": [
+        [
+          "Domination",
+          8100
+        ],
+        [
+          "Sorcery",
+          8200
+        ]
+      ],
+      "keystone": [
+        "Dark Harvest",
+        8128
+      ],
+      "runes": [
+        [
+          "Dark Harvest",
+          8128
+        ],
+        [
+          "Cheap Shot",
+          8126
+        ],
+        [
+          "Eyeball Collection",
+          8138
+        ],
+        [
+          "Ultimate Hunter",
+          8106
+        ],
+        [
+          "Transcendence",
+          8210
+        ],
+        [
+          "Gathering Storm",
+          8236
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "jungle",
+      "paths": [
+        [
+          "Domination",
+          8100
+        ],
+        [
+          "Sorcery",
+          8200
+        ]
+      ],
+      "keystone": [
+        "Dark Harvest",
+        8128
+      ],
+      "runes": [
+        [
+          "Dark Harvest",
+          8128
+        ],
+        [
+          "Cheap Shot",
+          8126
+        ],
+        [
+          "Eyeball Collection",
+          8138
+        ],
+        [
+          "Ultimate Hunter",
+          8106
+        ],
+        [
+          "Absolute Focus",
+          8233
+        ],
+        [
+          "Gathering Storm",
+          8236
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    }
+  ]
+}

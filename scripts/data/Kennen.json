@@ -1,0 +1,291 @@
+{
+  "name": "Kennen",
+  "current_patch": "13.12",
+  "roles": [
+    {
+      "role": "adc",
+      "paths": [
+        [
+          "Inspiration",
+          8300
+        ],
+        [
+          "Domination",
+          8100
+        ]
+      ],
+      "keystone": [
+        "First Strike",
+        8369
+      ],
+      "runes": [
+        [
+          "First Strike",
+          8369
+        ],
+        [
+          "Magical Footwear",
+          8304
+        ],
+        [
+          "Minion Dematerializer",
+          8316
+        ],
+        [
+          "Cosmic Insight",
+          8347
+        ],
+        [
+          "Ultimate Hunter",
+          8106
+        ],
+        [
+          "Taste of Blood",
+          8139
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "mid",
+      "paths": [
+        [
+          "Domination",
+          8100
+        ],
+        [
+          "Sorcery",
+          8200
+        ]
+      ],
+      "keystone": [
+        "Electrocute",
+        8112
+      ],
+      "runes": [
+        [
+          "Electrocute",
+          8112
+        ],
+        [
+          "Taste of Blood",
+          8139
+        ],
+        [
+          "Eyeball Collection",
+          8138
+        ],
+        [
+          "Ultimate Hunter",
+          8106
+        ],
+        [
+          "Absolute Focus",
+          8233
+        ],
+        [
+          "Scorch",
+          8237
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5003
+        ]
+      ]
+    },
+    {
+      "role": "top",
+      "paths": [
+        [
+          "Sorcery",
+          8200
+        ],
+        [
+          "Domination",
+          8100
+        ]
+      ],
+      "keystone": [
+        "Summon Aery",
+        8214
+      ],
+      "runes": [
+        [
+          "Summon Aery",
+          8214
+        ],
+        [
+          "Nimbus Cloak",
+          8275
+        ],
+        [
+          "Transcendence",
+          8210
+        ],
+        [
+          "Scorch",
+          8237
+        ],
+        [
+          "Ultimate Hunter",
+          8106
+        ],
+        [
+          "Taste of Blood",
+          8139
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "support",
+      "paths": [
+        [
+          "Domination",
+          8100
+        ],
+        [
+          "Precision",
+          8000
+        ]
+      ],
+      "keystone": [
+        "Dark Harvest",
+        8128
+      ],
+      "runes": [
+        [
+          "Dark Harvest",
+          8128
+        ],
+        [
+          "Cheap Shot",
+          8126
+        ],
+        [
+          "Eyeball Collection",
+          8138
+        ],
+        [
+          "Ultimate Hunter",
+          8106
+        ],
+        [
+          "Coup de Grace",
+          8014
+        ],
+        [
+          "Triumph",
+          9111
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "jungle",
+      "paths": [
+        [
+          "Inspiration",
+          8300
+        ],
+        [
+          "Domination",
+          8100
+        ]
+      ],
+      "keystone": [
+        "First Strike",
+        8369
+      ],
+      "runes": [
+        [
+          "First Strike",
+          8369
+        ],
+        [
+          "Magical Footwear",
+          8304
+        ],
+        [
+          "Minion Dematerializer",
+          8316
+        ],
+        [
+          "Cosmic Insight",
+          8347
+        ],
+        [
+          "Ultimate Hunter",
+          8106
+        ],
+        [
+          "Taste of Blood",
+          8139
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    }
+  ]
+}

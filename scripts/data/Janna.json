@@ -1,0 +1,291 @@
+{
+  "name": "Janna",
+  "current_patch": "13.12",
+  "roles": [
+    {
+      "role": "adc",
+      "paths": [
+        [
+          "Sorcery",
+          8200
+        ],
+        [
+          "Resolve",
+          8400
+        ]
+      ],
+      "keystone": [
+        "Summon Aery",
+        8214
+      ],
+      "runes": [
+        [
+          "Summon Aery",
+          8214
+        ],
+        [
+          "Manaflow Band",
+          8226
+        ],
+        [
+          "Absolute Focus",
+          8233
+        ],
+        [
+          "Gathering Storm",
+          8236
+        ],
+        [
+          "Revitalize",
+          8453
+        ],
+        [
+          "Font of Life",
+          8463
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5007
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "mid",
+      "paths": [
+        [
+          "Inspiration",
+          8300
+        ],
+        [
+          "Resolve",
+          8400
+        ]
+      ],
+      "keystone": [
+        "Glacial Augment",
+        8351
+      ],
+      "runes": [
+        [
+          "Glacial Augment",
+          8351
+        ],
+        [
+          "Magical Footwear",
+          8304
+        ],
+        [
+          "Biscuit Delivery",
+          8345
+        ],
+        [
+          "Cosmic Insight",
+          8347
+        ],
+        [
+          "Revitalize",
+          8453
+        ],
+        [
+          "Font of Life",
+          8463
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5007
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "top",
+      "paths": [
+        [
+          "Inspiration",
+          8300
+        ],
+        [
+          "Resolve",
+          8400
+        ]
+      ],
+      "keystone": [
+        "Glacial Augment",
+        8351
+      ],
+      "runes": [
+        [
+          "Glacial Augment",
+          8351
+        ],
+        [
+          "Magical Footwear",
+          8304
+        ],
+        [
+          "Biscuit Delivery",
+          8345
+        ],
+        [
+          "Cosmic Insight",
+          8347
+        ],
+        [
+          "Revitalize",
+          8453
+        ],
+        [
+          "Font of Life",
+          8463
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5007
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "support",
+      "paths": [
+        [
+          "Inspiration",
+          8300
+        ],
+        [
+          "Resolve",
+          8400
+        ]
+      ],
+      "keystone": [
+        "Glacial Augment",
+        8351
+      ],
+      "runes": [
+        [
+          "Glacial Augment",
+          8351
+        ],
+        [
+          "Magical Footwear",
+          8304
+        ],
+        [
+          "Biscuit Delivery",
+          8345
+        ],
+        [
+          "Cosmic Insight",
+          8347
+        ],
+        [
+          "Revitalize",
+          8453
+        ],
+        [
+          "Font of Life",
+          8463
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5007
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "jungle",
+      "paths": [
+        [
+          "Inspiration",
+          8300
+        ],
+        [
+          "Resolve",
+          8400
+        ]
+      ],
+      "keystone": [
+        "Glacial Augment",
+        8351
+      ],
+      "runes": [
+        [
+          "Glacial Augment",
+          8351
+        ],
+        [
+          "Magical Footwear",
+          8304
+        ],
+        [
+          "Biscuit Delivery",
+          8345
+        ],
+        [
+          "Cosmic Insight",
+          8347
+        ],
+        [
+          "Revitalize",
+          8453
+        ],
+        [
+          "Font of Life",
+          8463
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5007
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    }
+  ]
+}

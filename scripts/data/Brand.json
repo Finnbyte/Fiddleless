@@ -1,0 +1,291 @@
+{
+  "name": "Brand",
+  "current_patch": "13.12",
+  "roles": [
+    {
+      "role": "adc",
+      "paths": [
+        [
+          "Domination",
+          8100
+        ],
+        [
+          "Sorcery",
+          8200
+        ]
+      ],
+      "keystone": [
+        "Dark Harvest",
+        8128
+      ],
+      "runes": [
+        [
+          "Dark Harvest",
+          8128
+        ],
+        [
+          "Taste of Blood",
+          8139
+        ],
+        [
+          "Eyeball Collection",
+          8138
+        ],
+        [
+          "Treasure Hunter",
+          8135
+        ],
+        [
+          "Manaflow Band",
+          8226
+        ],
+        [
+          "Scorch",
+          8237
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "mid",
+      "paths": [
+        [
+          "Domination",
+          8100
+        ],
+        [
+          "Sorcery",
+          8200
+        ]
+      ],
+      "keystone": [
+        "Dark Harvest",
+        8128
+      ],
+      "runes": [
+        [
+          "Dark Harvest",
+          8128
+        ],
+        [
+          "Taste of Blood",
+          8139
+        ],
+        [
+          "Eyeball Collection",
+          8138
+        ],
+        [
+          "Ultimate Hunter",
+          8106
+        ],
+        [
+          "Manaflow Band",
+          8226
+        ],
+        [
+          "Scorch",
+          8237
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5003
+        ]
+      ]
+    },
+    {
+      "role": "top",
+      "paths": [
+        [
+          "Domination",
+          8100
+        ],
+        [
+          "Sorcery",
+          8200
+        ]
+      ],
+      "keystone": [
+        "Dark Harvest",
+        8128
+      ],
+      "runes": [
+        [
+          "Dark Harvest",
+          8128
+        ],
+        [
+          "Taste of Blood",
+          8139
+        ],
+        [
+          "Eyeball Collection",
+          8138
+        ],
+        [
+          "Treasure Hunter",
+          8135
+        ],
+        [
+          "Manaflow Band",
+          8226
+        ],
+        [
+          "Scorch",
+          8237
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "support",
+      "paths": [
+        [
+          "Domination",
+          8100
+        ],
+        [
+          "Sorcery",
+          8200
+        ]
+      ],
+      "keystone": [
+        "Dark Harvest",
+        8128
+      ],
+      "runes": [
+        [
+          "Dark Harvest",
+          8128
+        ],
+        [
+          "Taste of Blood",
+          8139
+        ],
+        [
+          "Eyeball Collection",
+          8138
+        ],
+        [
+          "Treasure Hunter",
+          8135
+        ],
+        [
+          "Manaflow Band",
+          8226
+        ],
+        [
+          "Scorch",
+          8237
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "jungle",
+      "paths": [
+        [
+          "Domination",
+          8100
+        ],
+        [
+          "Sorcery",
+          8200
+        ]
+      ],
+      "keystone": [
+        "Dark Harvest",
+        8128
+      ],
+      "runes": [
+        [
+          "Dark Harvest",
+          8128
+        ],
+        [
+          "Taste of Blood",
+          8139
+        ],
+        [
+          "Eyeball Collection",
+          8138
+        ],
+        [
+          "Treasure Hunter",
+          8135
+        ],
+        [
+          "Manaflow Band",
+          8226
+        ],
+        [
+          "Scorch",
+          8237
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    }
+  ]
+}

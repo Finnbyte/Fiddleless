@@ -1,0 +1,291 @@
+{
+  "name": "Ryze",
+  "current_patch": "13.12",
+  "roles": [
+    {
+      "role": "adc",
+      "paths": [
+        [
+          "Sorcery",
+          8200
+        ],
+        [
+          "Inspiration",
+          8300
+        ]
+      ],
+      "keystone": [
+        "Phase Rush",
+        8230
+      ],
+      "runes": [
+        [
+          "Phase Rush",
+          8230
+        ],
+        [
+          "Manaflow Band",
+          8226
+        ],
+        [
+          "Transcendence",
+          8210
+        ],
+        [
+          "Waterwalking",
+          8232
+        ],
+        [
+          "Biscuit Delivery",
+          8345
+        ],
+        [
+          "Cosmic Insight",
+          8347
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5003
+        ]
+      ]
+    },
+    {
+      "role": "mid",
+      "paths": [
+        [
+          "Sorcery",
+          8200
+        ],
+        [
+          "Inspiration",
+          8300
+        ]
+      ],
+      "keystone": [
+        "Phase Rush",
+        8230
+      ],
+      "runes": [
+        [
+          "Phase Rush",
+          8230
+        ],
+        [
+          "Manaflow Band",
+          8226
+        ],
+        [
+          "Transcendence",
+          8210
+        ],
+        [
+          "Waterwalking",
+          8232
+        ],
+        [
+          "Biscuit Delivery",
+          8345
+        ],
+        [
+          "Cosmic Insight",
+          8347
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5003
+        ]
+      ]
+    },
+    {
+      "role": "top",
+      "paths": [
+        [
+          "Sorcery",
+          8200
+        ],
+        [
+          "Inspiration",
+          8300
+        ]
+      ],
+      "keystone": [
+        "Phase Rush",
+        8230
+      ],
+      "runes": [
+        [
+          "Phase Rush",
+          8230
+        ],
+        [
+          "Manaflow Band",
+          8226
+        ],
+        [
+          "Transcendence",
+          8210
+        ],
+        [
+          "Scorch",
+          8237
+        ],
+        [
+          "Biscuit Delivery",
+          8345
+        ],
+        [
+          "Cosmic Insight",
+          8347
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "support",
+      "paths": [
+        [
+          "Sorcery",
+          8200
+        ],
+        [
+          "Domination",
+          8100
+        ]
+      ],
+      "keystone": [
+        "Arcane Comet",
+        8229
+      ],
+      "runes": [
+        [
+          "Arcane Comet",
+          8229
+        ],
+        [
+          "Manaflow Band",
+          8226
+        ],
+        [
+          "Absolute Focus",
+          8233
+        ],
+        [
+          "Scorch",
+          8237
+        ],
+        [
+          "Treasure Hunter",
+          8135
+        ],
+        [
+          "Taste of Blood",
+          8139
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "jungle",
+      "paths": [
+        [
+          "Sorcery",
+          8200
+        ],
+        [
+          "Resolve",
+          8400
+        ]
+      ],
+      "keystone": [
+        "Phase Rush",
+        8230
+      ],
+      "runes": [
+        [
+          "Phase Rush",
+          8230
+        ],
+        [
+          "Manaflow Band",
+          8226
+        ],
+        [
+          "Transcendence",
+          8210
+        ],
+        [
+          "Gathering Storm",
+          8236
+        ],
+        [
+          "Overgrowth",
+          8451
+        ],
+        [
+          "Bone Plating",
+          8473
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5003
+        ]
+      ]
+    }
+  ]
+}

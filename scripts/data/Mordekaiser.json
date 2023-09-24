@@ -1,0 +1,291 @@
+{
+  "name": "Mordekaiser",
+  "current_patch": "13.12",
+  "roles": [
+    {
+      "role": "adc",
+      "paths": [
+        [
+          "Precision",
+          8000
+        ],
+        [
+          "Resolve",
+          8400
+        ]
+      ],
+      "keystone": [
+        "Conqueror",
+        8010
+      ],
+      "runes": [
+        [
+          "Conqueror",
+          8010
+        ],
+        [
+          "Triumph",
+          9111
+        ],
+        [
+          "Legend: Tenacity",
+          9105
+        ],
+        [
+          "Last Stand",
+          8299
+        ],
+        [
+          "Revitalize",
+          8453
+        ],
+        [
+          "Bone Plating",
+          8473
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "mid",
+      "paths": [
+        [
+          "Precision",
+          8000
+        ],
+        [
+          "Resolve",
+          8400
+        ]
+      ],
+      "keystone": [
+        "Conqueror",
+        8010
+      ],
+      "runes": [
+        [
+          "Conqueror",
+          8010
+        ],
+        [
+          "Triumph",
+          9111
+        ],
+        [
+          "Legend: Tenacity",
+          9105
+        ],
+        [
+          "Last Stand",
+          8299
+        ],
+        [
+          "Revitalize",
+          8453
+        ],
+        [
+          "Bone Plating",
+          8473
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "top",
+      "paths": [
+        [
+          "Precision",
+          8000
+        ],
+        [
+          "Resolve",
+          8400
+        ]
+      ],
+      "keystone": [
+        "Conqueror",
+        8010
+      ],
+      "runes": [
+        [
+          "Conqueror",
+          8010
+        ],
+        [
+          "Triumph",
+          9111
+        ],
+        [
+          "Legend: Tenacity",
+          9105
+        ],
+        [
+          "Last Stand",
+          8299
+        ],
+        [
+          "Revitalize",
+          8453
+        ],
+        [
+          "Bone Plating",
+          8473
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "support",
+      "paths": [
+        [
+          "Precision",
+          8000
+        ],
+        [
+          "Resolve",
+          8400
+        ]
+      ],
+      "keystone": [
+        "Conqueror",
+        8010
+      ],
+      "runes": [
+        [
+          "Conqueror",
+          8010
+        ],
+        [
+          "Triumph",
+          9111
+        ],
+        [
+          "Legend: Tenacity",
+          9105
+        ],
+        [
+          "Last Stand",
+          8299
+        ],
+        [
+          "Revitalize",
+          8453
+        ],
+        [
+          "Bone Plating",
+          8473
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "jungle",
+      "paths": [
+        [
+          "Precision",
+          8000
+        ],
+        [
+          "Resolve",
+          8400
+        ]
+      ],
+      "keystone": [
+        "Conqueror",
+        8010
+      ],
+      "runes": [
+        [
+          "Conqueror",
+          8010
+        ],
+        [
+          "Triumph",
+          9111
+        ],
+        [
+          "Legend: Tenacity",
+          9105
+        ],
+        [
+          "Last Stand",
+          8299
+        ],
+        [
+          "Conditioning",
+          8429
+        ],
+        [
+          "Revitalize",
+          8453
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    }
+  ]
+}

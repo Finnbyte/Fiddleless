@@ -1,0 +1,234 @@
+{
+  "name": "Yuumi",
+  "current_patch": "13.12",
+  "roles": [
+    {
+      "role": "adc",
+      "paths": [
+        [
+          "Sorcery",
+          8200
+        ],
+        [
+          "Precision",
+          8000
+        ]
+      ],
+      "keystone": [
+        "Summon Aery",
+        8214
+      ],
+      "runes": [
+        [
+          "Summon Aery",
+          8214
+        ],
+        [
+          "Manaflow Band",
+          8226
+        ],
+        [
+          "Transcendence",
+          8210
+        ],
+        [
+          "Scorch",
+          8237
+        ],
+        [
+          "Presence of Mind",
+          8009
+        ],
+        [
+          "Cut Down",
+          8017
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "mid",
+      "paths": [
+        [
+          "Sorcery",
+          8200
+        ],
+        [
+          "Precision",
+          8000
+        ]
+      ],
+      "keystone": [
+        "Summon Aery",
+        8214
+      ],
+      "runes": [
+        [
+          "Summon Aery",
+          8214
+        ],
+        [
+          "Manaflow Band",
+          8226
+        ],
+        [
+          "Transcendence",
+          8210
+        ],
+        [
+          "Scorch",
+          8237
+        ],
+        [
+          "Presence of Mind",
+          8009
+        ],
+        [
+          "Cut Down",
+          8017
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "top",
+      "paths": [
+        [
+          "Sorcery",
+          8200
+        ],
+        [
+          "Precision",
+          8000
+        ]
+      ],
+      "keystone": [
+        "Summon Aery",
+        8214
+      ],
+      "runes": [
+        [
+          "Summon Aery",
+          8214
+        ],
+        [
+          "Manaflow Band",
+          8226
+        ],
+        [
+          "Transcendence",
+          8210
+        ],
+        [
+          "Scorch",
+          8237
+        ],
+        [
+          "Presence of Mind",
+          8009
+        ],
+        [
+          "Cut Down",
+          8017
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "support",
+      "paths": [
+        [
+          "Sorcery",
+          8200
+        ],
+        [
+          "Precision",
+          8000
+        ]
+      ],
+      "keystone": [
+        "Summon Aery",
+        8214
+      ],
+      "runes": [
+        [
+          "Summon Aery",
+          8214
+        ],
+        [
+          "Manaflow Band",
+          8226
+        ],
+        [
+          "Transcendence",
+          8210
+        ],
+        [
+          "Scorch",
+          8237
+        ],
+        [
+          "Presence of Mind",
+          8009
+        ],
+        [
+          "Cut Down",
+          8017
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    }
+  ]
+}

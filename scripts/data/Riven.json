@@ -1,0 +1,291 @@
+{
+  "name": "Riven",
+  "current_patch": "13.12",
+  "roles": [
+    {
+      "role": "adc",
+      "paths": [
+        [
+          "Precision",
+          8000
+        ],
+        [
+          "Sorcery",
+          8200
+        ]
+      ],
+      "keystone": [
+        "Conqueror",
+        8010
+      ],
+      "runes": [
+        [
+          "Conqueror",
+          8010
+        ],
+        [
+          "Triumph",
+          9111
+        ],
+        [
+          "Legend: Tenacity",
+          9105
+        ],
+        [
+          "Last Stand",
+          8299
+        ],
+        [
+          "Transcendence",
+          8210
+        ],
+        [
+          "Nimbus Cloak",
+          8275
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "mid",
+      "paths": [
+        [
+          "Precision",
+          8000
+        ],
+        [
+          "Sorcery",
+          8200
+        ]
+      ],
+      "keystone": [
+        "Conqueror",
+        8010
+      ],
+      "runes": [
+        [
+          "Conqueror",
+          8010
+        ],
+        [
+          "Triumph",
+          9111
+        ],
+        [
+          "Legend: Tenacity",
+          9105
+        ],
+        [
+          "Last Stand",
+          8299
+        ],
+        [
+          "Transcendence",
+          8210
+        ],
+        [
+          "Nimbus Cloak",
+          8275
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "top",
+      "paths": [
+        [
+          "Precision",
+          8000
+        ],
+        [
+          "Sorcery",
+          8200
+        ]
+      ],
+      "keystone": [
+        "Conqueror",
+        8010
+      ],
+      "runes": [
+        [
+          "Conqueror",
+          8010
+        ],
+        [
+          "Triumph",
+          9111
+        ],
+        [
+          "Legend: Tenacity",
+          9105
+        ],
+        [
+          "Last Stand",
+          8299
+        ],
+        [
+          "Transcendence",
+          8210
+        ],
+        [
+          "Nimbus Cloak",
+          8275
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "support",
+      "paths": [
+        [
+          "Precision",
+          8000
+        ],
+        [
+          "Sorcery",
+          8200
+        ]
+      ],
+      "keystone": [
+        "Conqueror",
+        8010
+      ],
+      "runes": [
+        [
+          "Conqueror",
+          8010
+        ],
+        [
+          "Triumph",
+          9111
+        ],
+        [
+          "Legend: Tenacity",
+          9105
+        ],
+        [
+          "Last Stand",
+          8299
+        ],
+        [
+          "Transcendence",
+          8210
+        ],
+        [
+          "Nimbus Cloak",
+          8275
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "jungle",
+      "paths": [
+        [
+          "Precision",
+          8000
+        ],
+        [
+          "Sorcery",
+          8200
+        ]
+      ],
+      "keystone": [
+        "Conqueror",
+        8010
+      ],
+      "runes": [
+        [
+          "Conqueror",
+          8010
+        ],
+        [
+          "Triumph",
+          9111
+        ],
+        [
+          "Legend: Tenacity",
+          9105
+        ],
+        [
+          "Last Stand",
+          8299
+        ],
+        [
+          "Transcendence",
+          8210
+        ],
+        [
+          "Nimbus Cloak",
+          8275
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    }
+  ]
+}

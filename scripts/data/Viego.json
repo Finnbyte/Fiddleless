@@ -1,0 +1,291 @@
+{
+  "name": "Viego",
+  "current_patch": "13.12",
+  "roles": [
+    {
+      "role": "adc",
+      "paths": [
+        [
+          "Precision",
+          8000
+        ],
+        [
+          "Domination",
+          8100
+        ]
+      ],
+      "keystone": [
+        "Conqueror",
+        8010
+      ],
+      "runes": [
+        [
+          "Conqueror",
+          8010
+        ],
+        [
+          "Triumph",
+          9111
+        ],
+        [
+          "Legend: Alacrity",
+          9104
+        ],
+        [
+          "Coup de Grace",
+          8014
+        ],
+        [
+          "Treasure Hunter",
+          8135
+        ],
+        [
+          "Sudden Impact",
+          8143
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "mid",
+      "paths": [
+        [
+          "Precision",
+          8000
+        ],
+        [
+          "Resolve",
+          8400
+        ]
+      ],
+      "keystone": [
+        "Conqueror",
+        8010
+      ],
+      "runes": [
+        [
+          "Conqueror",
+          8010
+        ],
+        [
+          "Triumph",
+          9111
+        ],
+        [
+          "Legend: Alacrity",
+          9104
+        ],
+        [
+          "Last Stand",
+          8299
+        ],
+        [
+          "Unflinching",
+          8242
+        ],
+        [
+          "Second Wind",
+          8444
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5003
+        ]
+      ]
+    },
+    {
+      "role": "top",
+      "paths": [
+        [
+          "Precision",
+          8000
+        ],
+        [
+          "Inspiration",
+          8300
+        ]
+      ],
+      "keystone": [
+        "Conqueror",
+        8010
+      ],
+      "runes": [
+        [
+          "Conqueror",
+          8010
+        ],
+        [
+          "Triumph",
+          9111
+        ],
+        [
+          "Legend: Alacrity",
+          9104
+        ],
+        [
+          "Coup de Grace",
+          8014
+        ],
+        [
+          "Magical Footwear",
+          8304
+        ],
+        [
+          "Cosmic Insight",
+          8347
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "support",
+      "paths": [
+        [
+          "Precision",
+          8000
+        ],
+        [
+          "Inspiration",
+          8300
+        ]
+      ],
+      "keystone": [
+        "Press the Attack",
+        8005
+      ],
+      "runes": [
+        [
+          "Press the Attack",
+          8005
+        ],
+        [
+          "Triumph",
+          9111
+        ],
+        [
+          "Legend: Alacrity",
+          9104
+        ],
+        [
+          "Coup de Grace",
+          8014
+        ],
+        [
+          "Magical Footwear",
+          8304
+        ],
+        [
+          "Cosmic Insight",
+          8347
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "jungle",
+      "paths": [
+        [
+          "Precision",
+          8000
+        ],
+        [
+          "Inspiration",
+          8300
+        ]
+      ],
+      "keystone": [
+        "Conqueror",
+        8010
+      ],
+      "runes": [
+        [
+          "Conqueror",
+          8010
+        ],
+        [
+          "Triumph",
+          9111
+        ],
+        [
+          "Legend: Alacrity",
+          9104
+        ],
+        [
+          "Coup de Grace",
+          8014
+        ],
+        [
+          "Magical Footwear",
+          8304
+        ],
+        [
+          "Cosmic Insight",
+          8347
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    }
+  ]
+}

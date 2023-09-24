@@ -1,0 +1,291 @@
+{
+  "name": "Akali",
+  "current_patch": "13.12",
+  "roles": [
+    {
+      "role": "adc",
+      "paths": [
+        [
+          "Precision",
+          8000
+        ],
+        [
+          "Resolve",
+          8400
+        ]
+      ],
+      "keystone": [
+        "Conqueror",
+        8010
+      ],
+      "runes": [
+        [
+          "Conqueror",
+          8010
+        ],
+        [
+          "Presence of Mind",
+          8009
+        ],
+        [
+          "Legend: Tenacity",
+          9105
+        ],
+        [
+          "Coup de Grace",
+          8014
+        ],
+        [
+          "Second Wind",
+          8444
+        ],
+        [
+          "Overgrowth",
+          8451
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5003
+        ]
+      ]
+    },
+    {
+      "role": "mid",
+      "paths": [
+        [
+          "Precision",
+          8000
+        ],
+        [
+          "Resolve",
+          8400
+        ]
+      ],
+      "keystone": [
+        "Conqueror",
+        8010
+      ],
+      "runes": [
+        [
+          "Conqueror",
+          8010
+        ],
+        [
+          "Presence of Mind",
+          8009
+        ],
+        [
+          "Legend: Tenacity",
+          9105
+        ],
+        [
+          "Coup de Grace",
+          8014
+        ],
+        [
+          "Second Wind",
+          8444
+        ],
+        [
+          "Overgrowth",
+          8451
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5003
+        ]
+      ]
+    },
+    {
+      "role": "top",
+      "paths": [
+        [
+          "Precision",
+          8000
+        ],
+        [
+          "Resolve",
+          8400
+        ]
+      ],
+      "keystone": [
+        "Conqueror",
+        8010
+      ],
+      "runes": [
+        [
+          "Conqueror",
+          8010
+        ],
+        [
+          "Presence of Mind",
+          8009
+        ],
+        [
+          "Legend: Tenacity",
+          9105
+        ],
+        [
+          "Coup de Grace",
+          8014
+        ],
+        [
+          "Second Wind",
+          8444
+        ],
+        [
+          "Overgrowth",
+          8451
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "support",
+      "paths": [
+        [
+          "Precision",
+          8000
+        ],
+        [
+          "Resolve",
+          8400
+        ]
+      ],
+      "keystone": [
+        "Conqueror",
+        8010
+      ],
+      "runes": [
+        [
+          "Conqueror",
+          8010
+        ],
+        [
+          "Presence of Mind",
+          8009
+        ],
+        [
+          "Legend: Tenacity",
+          9105
+        ],
+        [
+          "Coup de Grace",
+          8014
+        ],
+        [
+          "Second Wind",
+          8444
+        ],
+        [
+          "Overgrowth",
+          8451
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5003
+        ]
+      ]
+    },
+    {
+      "role": "jungle",
+      "paths": [
+        [
+          "Precision",
+          8000
+        ],
+        [
+          "Resolve",
+          8400
+        ]
+      ],
+      "keystone": [
+        "Conqueror",
+        8010
+      ],
+      "runes": [
+        [
+          "Conqueror",
+          8010
+        ],
+        [
+          "Presence of Mind",
+          8009
+        ],
+        [
+          "Legend: Tenacity",
+          9105
+        ],
+        [
+          "Coup de Grace",
+          8014
+        ],
+        [
+          "Second Wind",
+          8444
+        ],
+        [
+          "Overgrowth",
+          8451
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5003
+        ]
+      ]
+    }
+  ]
+}

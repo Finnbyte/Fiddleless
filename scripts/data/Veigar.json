@@ -1,0 +1,291 @@
+{
+  "name": "Veigar",
+  "current_patch": "13.12",
+  "roles": [
+    {
+      "role": "adc",
+      "paths": [
+        [
+          "Inspiration",
+          8300
+        ],
+        [
+          "Sorcery",
+          8200
+        ]
+      ],
+      "keystone": [
+        "First Strike",
+        8369
+      ],
+      "runes": [
+        [
+          "First Strike",
+          8369
+        ],
+        [
+          "Magical Footwear",
+          8304
+        ],
+        [
+          "Biscuit Delivery",
+          8345
+        ],
+        [
+          "Cosmic Insight",
+          8347
+        ],
+        [
+          "Transcendence",
+          8210
+        ],
+        [
+          "Manaflow Band",
+          8226
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5007
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "mid",
+      "paths": [
+        [
+          "Inspiration",
+          8300
+        ],
+        [
+          "Sorcery",
+          8200
+        ]
+      ],
+      "keystone": [
+        "First Strike",
+        8369
+      ],
+      "runes": [
+        [
+          "First Strike",
+          8369
+        ],
+        [
+          "Magical Footwear",
+          8304
+        ],
+        [
+          "Biscuit Delivery",
+          8345
+        ],
+        [
+          "Cosmic Insight",
+          8347
+        ],
+        [
+          "Transcendence",
+          8210
+        ],
+        [
+          "Manaflow Band",
+          8226
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5007
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5003
+        ]
+      ]
+    },
+    {
+      "role": "top",
+      "paths": [
+        [
+          "Inspiration",
+          8300
+        ],
+        [
+          "Sorcery",
+          8200
+        ]
+      ],
+      "keystone": [
+        "First Strike",
+        8369
+      ],
+      "runes": [
+        [
+          "First Strike",
+          8369
+        ],
+        [
+          "Magical Footwear",
+          8304
+        ],
+        [
+          "Biscuit Delivery",
+          8345
+        ],
+        [
+          "Cosmic Insight",
+          8347
+        ],
+        [
+          "Transcendence",
+          8210
+        ],
+        [
+          "Manaflow Band",
+          8226
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5007
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5003
+        ]
+      ]
+    },
+    {
+      "role": "support",
+      "paths": [
+        [
+          "Sorcery",
+          8200
+        ],
+        [
+          "Domination",
+          8100
+        ]
+      ],
+      "keystone": [
+        "Arcane Comet",
+        8229
+      ],
+      "runes": [
+        [
+          "Arcane Comet",
+          8229
+        ],
+        [
+          "Manaflow Band",
+          8226
+        ],
+        [
+          "Transcendence",
+          8210
+        ],
+        [
+          "Gathering Storm",
+          8236
+        ],
+        [
+          "Ultimate Hunter",
+          8106
+        ],
+        [
+          "Cheap Shot",
+          8126
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "jungle",
+      "paths": [
+        [
+          "Domination",
+          8100
+        ],
+        [
+          "Sorcery",
+          8200
+        ]
+      ],
+      "keystone": [
+        "Electrocute",
+        8112
+      ],
+      "runes": [
+        [
+          "Electrocute",
+          8112
+        ],
+        [
+          "Cheap Shot",
+          8126
+        ],
+        [
+          "Eyeball Collection",
+          8138
+        ],
+        [
+          "Ultimate Hunter",
+          8106
+        ],
+        [
+          "Absolute Focus",
+          8233
+        ],
+        [
+          "Gathering Storm",
+          8236
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "DEFENSE",
+          5001
+        ]
+      ]
+    }
+  ]
+}

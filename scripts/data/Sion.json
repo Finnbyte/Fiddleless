@@ -1,0 +1,291 @@
+{
+  "name": "Sion",
+  "current_patch": "13.12",
+  "roles": [
+    {
+      "role": "adc",
+      "paths": [
+        [
+          "Resolve",
+          8400
+        ],
+        [
+          "Inspiration",
+          8300
+        ]
+      ],
+      "keystone": [
+        "Grasp of the Undying",
+        8437
+      ],
+      "runes": [
+        [
+          "Grasp of the Undying",
+          8437
+        ],
+        [
+          "Demolish",
+          8446
+        ],
+        [
+          "Conditioning",
+          8429
+        ],
+        [
+          "Overgrowth",
+          8451
+        ],
+        [
+          "Minion Dematerializer",
+          8316
+        ],
+        [
+          "Approach Velocity",
+          8410
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "mid",
+      "paths": [
+        [
+          "Resolve",
+          8400
+        ],
+        [
+          "Inspiration",
+          8300
+        ]
+      ],
+      "keystone": [
+        "Grasp of the Undying",
+        8437
+      ],
+      "runes": [
+        [
+          "Grasp of the Undying",
+          8437
+        ],
+        [
+          "Demolish",
+          8446
+        ],
+        [
+          "Conditioning",
+          8429
+        ],
+        [
+          "Overgrowth",
+          8451
+        ],
+        [
+          "Minion Dematerializer",
+          8316
+        ],
+        [
+          "Approach Velocity",
+          8410
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "top",
+      "paths": [
+        [
+          "Resolve",
+          8400
+        ],
+        [
+          "Inspiration",
+          8300
+        ]
+      ],
+      "keystone": [
+        "Grasp of the Undying",
+        8437
+      ],
+      "runes": [
+        [
+          "Grasp of the Undying",
+          8437
+        ],
+        [
+          "Demolish",
+          8446
+        ],
+        [
+          "Conditioning",
+          8429
+        ],
+        [
+          "Overgrowth",
+          8451
+        ],
+        [
+          "Minion Dematerializer",
+          8316
+        ],
+        [
+          "Approach Velocity",
+          8410
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "support",
+      "paths": [
+        [
+          "Resolve",
+          8400
+        ],
+        [
+          "Inspiration",
+          8300
+        ]
+      ],
+      "keystone": [
+        "Grasp of the Undying",
+        8437
+      ],
+      "runes": [
+        [
+          "Grasp of the Undying",
+          8437
+        ],
+        [
+          "Demolish",
+          8446
+        ],
+        [
+          "Conditioning",
+          8429
+        ],
+        [
+          "Overgrowth",
+          8451
+        ],
+        [
+          "Minion Dematerializer",
+          8316
+        ],
+        [
+          "Approach Velocity",
+          8410
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "jungle",
+      "paths": [
+        [
+          "Sorcery",
+          8200
+        ],
+        [
+          "Inspiration",
+          8300
+        ]
+      ],
+      "keystone": [
+        "Phase Rush",
+        8230
+      ],
+      "runes": [
+        [
+          "Phase Rush",
+          8230
+        ],
+        [
+          "Nimbus Cloak",
+          8275
+        ],
+        [
+          "Celerity",
+          8234
+        ],
+        [
+          "Waterwalking",
+          8232
+        ],
+        [
+          "Magical Footwear",
+          8304
+        ],
+        [
+          "Approach Velocity",
+          8410
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    }
+  ]
+}

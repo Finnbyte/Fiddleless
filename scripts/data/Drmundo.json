@@ -1,0 +1,291 @@
+{
+  "name": "Drmundo",
+  "current_patch": "13.12",
+  "roles": [
+    {
+      "role": "adc",
+      "paths": [
+        [
+          "Resolve",
+          8400
+        ],
+        [
+          "Inspiration",
+          8300
+        ]
+      ],
+      "keystone": [
+        "Grasp of the Undying",
+        8437
+      ],
+      "runes": [
+        [
+          "Grasp of the Undying",
+          8437
+        ],
+        [
+          "Demolish",
+          8446
+        ],
+        [
+          "Second Wind",
+          8444
+        ],
+        [
+          "Overgrowth",
+          8451
+        ],
+        [
+          "Magical Footwear",
+          8304
+        ],
+        [
+          "Approach Velocity",
+          8410
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "FLEX",
+          5002
+        ],
+        [
+          "DEFENSE",
+          5001
+        ]
+      ]
+    },
+    {
+      "role": "mid",
+      "paths": [
+        [
+          "Resolve",
+          8400
+        ],
+        [
+          "Inspiration",
+          8300
+        ]
+      ],
+      "keystone": [
+        "Grasp of the Undying",
+        8437
+      ],
+      "runes": [
+        [
+          "Grasp of the Undying",
+          8437
+        ],
+        [
+          "Demolish",
+          8446
+        ],
+        [
+          "Second Wind",
+          8444
+        ],
+        [
+          "Overgrowth",
+          8451
+        ],
+        [
+          "Magical Footwear",
+          8304
+        ],
+        [
+          "Approach Velocity",
+          8410
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "FLEX",
+          5002
+        ],
+        [
+          "DEFENSE",
+          5001
+        ]
+      ]
+    },
+    {
+      "role": "top",
+      "paths": [
+        [
+          "Resolve",
+          8400
+        ],
+        [
+          "Inspiration",
+          8300
+        ]
+      ],
+      "keystone": [
+        "Grasp of the Undying",
+        8437
+      ],
+      "runes": [
+        [
+          "Grasp of the Undying",
+          8437
+        ],
+        [
+          "Demolish",
+          8446
+        ],
+        [
+          "Second Wind",
+          8444
+        ],
+        [
+          "Overgrowth",
+          8451
+        ],
+        [
+          "Magical Footwear",
+          8304
+        ],
+        [
+          "Approach Velocity",
+          8410
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "FLEX",
+          5002
+        ],
+        [
+          "DEFENSE",
+          5001
+        ]
+      ]
+    },
+    {
+      "role": "support",
+      "paths": [
+        [
+          "Resolve",
+          8400
+        ],
+        [
+          "Inspiration",
+          8300
+        ]
+      ],
+      "keystone": [
+        "Grasp of the Undying",
+        8437
+      ],
+      "runes": [
+        [
+          "Grasp of the Undying",
+          8437
+        ],
+        [
+          "Demolish",
+          8446
+        ],
+        [
+          "Second Wind",
+          8444
+        ],
+        [
+          "Overgrowth",
+          8451
+        ],
+        [
+          "Magical Footwear",
+          8304
+        ],
+        [
+          "Approach Velocity",
+          8410
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "FLEX",
+          5002
+        ],
+        [
+          "DEFENSE",
+          5001
+        ]
+      ]
+    },
+    {
+      "role": "jungle",
+      "paths": [
+        [
+          "Precision",
+          8000
+        ],
+        [
+          "Inspiration",
+          8300
+        ]
+      ],
+      "keystone": [
+        "Fleet Footwork",
+        8021
+      ],
+      "runes": [
+        [
+          "Fleet Footwork",
+          8021
+        ],
+        [
+          "Triumph",
+          9111
+        ],
+        [
+          "Legend: Tenacity",
+          9105
+        ],
+        [
+          "Last Stand",
+          8299
+        ],
+        [
+          "Magical Footwear",
+          8304
+        ],
+        [
+          "Approach Velocity",
+          8410
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "DEFENSE",
+          5001
+        ]
+      ]
+    }
+  ]
+}

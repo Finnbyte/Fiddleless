@@ -1,0 +1,291 @@
+{
+  "name": "Syndra",
+  "current_patch": "13.12",
+  "roles": [
+    {
+      "role": "adc",
+      "paths": [
+        [
+          "Inspiration",
+          8300
+        ],
+        [
+          "Sorcery",
+          8200
+        ]
+      ],
+      "keystone": [
+        "First Strike",
+        8369
+      ],
+      "runes": [
+        [
+          "First Strike",
+          8369
+        ],
+        [
+          "Magical Footwear",
+          8304
+        ],
+        [
+          "Biscuit Delivery",
+          8345
+        ],
+        [
+          "Cosmic Insight",
+          8347
+        ],
+        [
+          "Transcendence",
+          8210
+        ],
+        [
+          "Manaflow Band",
+          8226
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "mid",
+      "paths": [
+        [
+          "Inspiration",
+          8300
+        ],
+        [
+          "Sorcery",
+          8200
+        ]
+      ],
+      "keystone": [
+        "First Strike",
+        8369
+      ],
+      "runes": [
+        [
+          "First Strike",
+          8369
+        ],
+        [
+          "Magical Footwear",
+          8304
+        ],
+        [
+          "Minion Dematerializer",
+          8316
+        ],
+        [
+          "Cosmic Insight",
+          8347
+        ],
+        [
+          "Transcendence",
+          8210
+        ],
+        [
+          "Manaflow Band",
+          8226
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5003
+        ]
+      ]
+    },
+    {
+      "role": "top",
+      "paths": [
+        [
+          "Inspiration",
+          8300
+        ],
+        [
+          "Sorcery",
+          8200
+        ]
+      ],
+      "keystone": [
+        "First Strike",
+        8369
+      ],
+      "runes": [
+        [
+          "First Strike",
+          8369
+        ],
+        [
+          "Magical Footwear",
+          8304
+        ],
+        [
+          "Minion Dematerializer",
+          8316
+        ],
+        [
+          "Cosmic Insight",
+          8347
+        ],
+        [
+          "Transcendence",
+          8210
+        ],
+        [
+          "Manaflow Band",
+          8226
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5005
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5003
+        ]
+      ]
+    },
+    {
+      "role": "support",
+      "paths": [
+        [
+          "Inspiration",
+          8300
+        ],
+        [
+          "Sorcery",
+          8200
+        ]
+      ],
+      "keystone": [
+        "First Strike",
+        8369
+      ],
+      "runes": [
+        [
+          "First Strike",
+          8369
+        ],
+        [
+          "Magical Footwear",
+          8304
+        ],
+        [
+          "Biscuit Delivery",
+          8345
+        ],
+        [
+          "Cosmic Insight",
+          8347
+        ],
+        [
+          "Transcendence",
+          8210
+        ],
+        [
+          "Manaflow Band",
+          8226
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "jungle",
+      "paths": [
+        [
+          "Inspiration",
+          8300
+        ],
+        [
+          "Sorcery",
+          8200
+        ]
+      ],
+      "keystone": [
+        "Unsealed Spellbook",
+        8360
+      ],
+      "runes": [
+        [
+          "Unsealed Spellbook",
+          8360
+        ],
+        [
+          "Hextech Flashtraption",
+          8306
+        ],
+        [
+          "Minion Dematerializer",
+          8316
+        ],
+        [
+          "Cosmic Insight",
+          8347
+        ],
+        [
+          "Transcendence",
+          8210
+        ],
+        [
+          "Manaflow Band",
+          8226
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5007
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "DEFENSE",
+          5001
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,291 @@
+{
+  "name": "Rell",
+  "current_patch": "13.12",
+  "roles": [
+    {
+      "role": "adc",
+      "paths": [
+        [
+          "Inspiration",
+          8300
+        ],
+        [
+          "Resolve",
+          8400
+        ]
+      ],
+      "keystone": [
+        "Glacial Augment",
+        8351
+      ],
+      "runes": [
+        [
+          "Glacial Augment",
+          8351
+        ],
+        [
+          "Hextech Flashtraption",
+          8306
+        ],
+        [
+          "Minion Dematerializer",
+          8316
+        ],
+        [
+          "Cosmic Insight",
+          8347
+        ],
+        [
+          "Unflinching",
+          8242
+        ],
+        [
+          "Bone Plating",
+          8473
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5007
+        ],
+        [
+          "FLEX",
+          5002
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "mid",
+      "paths": [
+        [
+          "Inspiration",
+          8300
+        ],
+        [
+          "Resolve",
+          8400
+        ]
+      ],
+      "keystone": [
+        "Glacial Augment",
+        8351
+      ],
+      "runes": [
+        [
+          "Glacial Augment",
+          8351
+        ],
+        [
+          "Hextech Flashtraption",
+          8306
+        ],
+        [
+          "Minion Dematerializer",
+          8316
+        ],
+        [
+          "Cosmic Insight",
+          8347
+        ],
+        [
+          "Unflinching",
+          8242
+        ],
+        [
+          "Bone Plating",
+          8473
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5007
+        ],
+        [
+          "FLEX",
+          5002
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "top",
+      "paths": [
+        [
+          "Resolve",
+          8400
+        ],
+        [
+          "Sorcery",
+          8200
+        ]
+      ],
+      "keystone": [
+        "Grasp of the Undying",
+        8437
+      ],
+      "runes": [
+        [
+          "Grasp of the Undying",
+          8437
+        ],
+        [
+          "Shield Bash",
+          8401
+        ],
+        [
+          "Conditioning",
+          8429
+        ],
+        [
+          "Revitalize",
+          8453
+        ],
+        [
+          "Transcendence",
+          8210
+        ],
+        [
+          "Manaflow Band",
+          8226
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5007
+        ],
+        [
+          "FLEX",
+          5002
+        ],
+        [
+          "DEFENSE",
+          5001
+        ]
+      ]
+    },
+    {
+      "role": "support",
+      "paths": [
+        [
+          "Inspiration",
+          8300
+        ],
+        [
+          "Resolve",
+          8400
+        ]
+      ],
+      "keystone": [
+        "Glacial Augment",
+        8351
+      ],
+      "runes": [
+        [
+          "Glacial Augment",
+          8351
+        ],
+        [
+          "Hextech Flashtraption",
+          8306
+        ],
+        [
+          "Minion Dematerializer",
+          8316
+        ],
+        [
+          "Cosmic Insight",
+          8347
+        ],
+        [
+          "Unflinching",
+          8242
+        ],
+        [
+          "Bone Plating",
+          8473
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5007
+        ],
+        [
+          "FLEX",
+          5002
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "jungle",
+      "paths": [
+        [
+          "Resolve",
+          8400
+        ],
+        [
+          "Precision",
+          8000
+        ]
+      ],
+      "keystone": [
+        "Aftershock",
+        8439
+      ],
+      "runes": [
+        [
+          "Aftershock",
+          8439
+        ],
+        [
+          "Shield Bash",
+          8401
+        ],
+        [
+          "Bone Plating",
+          8473
+        ],
+        [
+          "Unflinching",
+          8242
+        ],
+        [
+          "Legend: Tenacity",
+          9105
+        ],
+        [
+          "Triumph",
+          9111
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5007
+        ],
+        [
+          "FLEX",
+          5002
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    }
+  ]
+}

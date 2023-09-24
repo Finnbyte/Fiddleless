@@ -1,0 +1,291 @@
+{
+  "name": "Poppy",
+  "current_patch": "13.12",
+  "roles": [
+    {
+      "role": "adc",
+      "paths": [
+        [
+          "Resolve",
+          8400
+        ],
+        [
+          "Inspiration",
+          8300
+        ]
+      ],
+      "keystone": [
+        "Grasp of the Undying",
+        8437
+      ],
+      "runes": [
+        [
+          "Grasp of the Undying",
+          8437
+        ],
+        [
+          "Shield Bash",
+          8401
+        ],
+        [
+          "Bone Plating",
+          8473
+        ],
+        [
+          "Revitalize",
+          8453
+        ],
+        [
+          "Biscuit Delivery",
+          8345
+        ],
+        [
+          "Time Warp Tonic",
+          8352
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "mid",
+      "paths": [
+        [
+          "Resolve",
+          8400
+        ],
+        [
+          "Inspiration",
+          8300
+        ]
+      ],
+      "keystone": [
+        "Grasp of the Undying",
+        8437
+      ],
+      "runes": [
+        [
+          "Grasp of the Undying",
+          8437
+        ],
+        [
+          "Shield Bash",
+          8401
+        ],
+        [
+          "Bone Plating",
+          8473
+        ],
+        [
+          "Revitalize",
+          8453
+        ],
+        [
+          "Biscuit Delivery",
+          8345
+        ],
+        [
+          "Time Warp Tonic",
+          8352
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "top",
+      "paths": [
+        [
+          "Resolve",
+          8400
+        ],
+        [
+          "Inspiration",
+          8300
+        ]
+      ],
+      "keystone": [
+        "Grasp of the Undying",
+        8437
+      ],
+      "runes": [
+        [
+          "Grasp of the Undying",
+          8437
+        ],
+        [
+          "Shield Bash",
+          8401
+        ],
+        [
+          "Bone Plating",
+          8473
+        ],
+        [
+          "Revitalize",
+          8453
+        ],
+        [
+          "Biscuit Delivery",
+          8345
+        ],
+        [
+          "Time Warp Tonic",
+          8352
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "support",
+      "paths": [
+        [
+          "Resolve",
+          8400
+        ],
+        [
+          "Inspiration",
+          8300
+        ]
+      ],
+      "keystone": [
+        "Aftershock",
+        8439
+      ],
+      "runes": [
+        [
+          "Aftershock",
+          8439
+        ],
+        [
+          "Font of Life",
+          8463
+        ],
+        [
+          "Bone Plating",
+          8473
+        ],
+        [
+          "Unflinching",
+          8242
+        ],
+        [
+          "Hextech Flashtraption",
+          8306
+        ],
+        [
+          "Cosmic Insight",
+          8347
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "jungle",
+      "paths": [
+        [
+          "Domination",
+          8100
+        ],
+        [
+          "Sorcery",
+          8200
+        ]
+      ],
+      "keystone": [
+        "Dark Harvest",
+        8128
+      ],
+      "runes": [
+        [
+          "Dark Harvest",
+          8128
+        ],
+        [
+          "Cheap Shot",
+          8126
+        ],
+        [
+          "Eyeball Collection",
+          8138
+        ],
+        [
+          "Relentless Hunter",
+          8105
+        ],
+        [
+          "Waterwalking",
+          8232
+        ],
+        [
+          "Celerity",
+          8234
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    }
+  ]
+}

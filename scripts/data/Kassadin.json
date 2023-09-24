@@ -1,0 +1,291 @@
+{
+  "name": "Kassadin",
+  "current_patch": "13.12",
+  "roles": [
+    {
+      "role": "adc",
+      "paths": [
+        [
+          "Domination",
+          8100
+        ],
+        [
+          "Precision",
+          8000
+        ]
+      ],
+      "keystone": [
+        "Electrocute",
+        8112
+      ],
+      "runes": [
+        [
+          "Electrocute",
+          8112
+        ],
+        [
+          "Taste of Blood",
+          8139
+        ],
+        [
+          "Eyeball Collection",
+          8138
+        ],
+        [
+          "Ultimate Hunter",
+          8106
+        ],
+        [
+          "Presence of Mind",
+          8009
+        ],
+        [
+          "Legend: Tenacity",
+          9105
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5003
+        ]
+      ]
+    },
+    {
+      "role": "mid",
+      "paths": [
+        [
+          "Domination",
+          8100
+        ],
+        [
+          "Precision",
+          8000
+        ]
+      ],
+      "keystone": [
+        "Electrocute",
+        8112
+      ],
+      "runes": [
+        [
+          "Electrocute",
+          8112
+        ],
+        [
+          "Taste of Blood",
+          8139
+        ],
+        [
+          "Eyeball Collection",
+          8138
+        ],
+        [
+          "Ultimate Hunter",
+          8106
+        ],
+        [
+          "Presence of Mind",
+          8009
+        ],
+        [
+          "Legend: Tenacity",
+          9105
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5003
+        ]
+      ]
+    },
+    {
+      "role": "top",
+      "paths": [
+        [
+          "Precision",
+          8000
+        ],
+        [
+          "Resolve",
+          8400
+        ]
+      ],
+      "keystone": [
+        "Fleet Footwork",
+        8021
+      ],
+      "runes": [
+        [
+          "Fleet Footwork",
+          8021
+        ],
+        [
+          "Presence of Mind",
+          8009
+        ],
+        [
+          "Legend: Tenacity",
+          9105
+        ],
+        [
+          "Coup de Grace",
+          8014
+        ],
+        [
+          "Second Wind",
+          8444
+        ],
+        [
+          "Overgrowth",
+          8451
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5003
+        ]
+      ]
+    },
+    {
+      "role": "support",
+      "paths": [
+        [
+          "Precision",
+          8000
+        ],
+        [
+          "Resolve",
+          8400
+        ]
+      ],
+      "keystone": [
+        "Fleet Footwork",
+        8021
+      ],
+      "runes": [
+        [
+          "Fleet Footwork",
+          8021
+        ],
+        [
+          "Presence of Mind",
+          8009
+        ],
+        [
+          "Legend: Tenacity",
+          9105
+        ],
+        [
+          "Coup de Grace",
+          8014
+        ],
+        [
+          "Second Wind",
+          8444
+        ],
+        [
+          "Overgrowth",
+          8451
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5003
+        ]
+      ]
+    },
+    {
+      "role": "jungle",
+      "paths": [
+        [
+          "Precision",
+          8000
+        ],
+        [
+          "Resolve",
+          8400
+        ]
+      ],
+      "keystone": [
+        "Fleet Footwork",
+        8021
+      ],
+      "runes": [
+        [
+          "Fleet Footwork",
+          8021
+        ],
+        [
+          "Presence of Mind",
+          8009
+        ],
+        [
+          "Legend: Tenacity",
+          9105
+        ],
+        [
+          "Coup de Grace",
+          8014
+        ],
+        [
+          "Second Wind",
+          8444
+        ],
+        [
+          "Overgrowth",
+          8451
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5003
+        ]
+      ]
+    }
+  ]
+}

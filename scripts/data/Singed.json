@@ -1,0 +1,291 @@
+{
+  "name": "Singed",
+  "current_patch": "13.12",
+  "roles": [
+    {
+      "role": "adc",
+      "paths": [
+        [
+          "Precision",
+          8000
+        ],
+        [
+          "Sorcery",
+          8200
+        ]
+      ],
+      "keystone": [
+        "Fleet Footwork",
+        8021
+      ],
+      "runes": [
+        [
+          "Fleet Footwork",
+          8021
+        ],
+        [
+          "Triumph",
+          9111
+        ],
+        [
+          "Legend: Tenacity",
+          9105
+        ],
+        [
+          "Last Stand",
+          8299
+        ],
+        [
+          "Celerity",
+          8234
+        ],
+        [
+          "Nimbus Cloak",
+          8275
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "mid",
+      "paths": [
+        [
+          "Domination",
+          8100
+        ],
+        [
+          "Sorcery",
+          8200
+        ]
+      ],
+      "keystone": [
+        "Predator",
+        8124
+      ],
+      "runes": [
+        [
+          "Predator",
+          8124
+        ],
+        [
+          "Cheap Shot",
+          8126
+        ],
+        [
+          "Eyeball Collection",
+          8138
+        ],
+        [
+          "Relentless Hunter",
+          8105
+        ],
+        [
+          "Waterwalking",
+          8232
+        ],
+        [
+          "Celerity",
+          8234
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5003
+        ]
+      ]
+    },
+    {
+      "role": "top",
+      "paths": [
+        [
+          "Precision",
+          8000
+        ],
+        [
+          "Sorcery",
+          8200
+        ]
+      ],
+      "keystone": [
+        "Conqueror",
+        8010
+      ],
+      "runes": [
+        [
+          "Conqueror",
+          8010
+        ],
+        [
+          "Triumph",
+          9111
+        ],
+        [
+          "Legend: Tenacity",
+          9105
+        ],
+        [
+          "Last Stand",
+          8299
+        ],
+        [
+          "Celerity",
+          8234
+        ],
+        [
+          "Nimbus Cloak",
+          8275
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "support",
+      "paths": [
+        [
+          "Precision",
+          8000
+        ],
+        [
+          "Sorcery",
+          8200
+        ]
+      ],
+      "keystone": [
+        "Conqueror",
+        8010
+      ],
+      "runes": [
+        [
+          "Conqueror",
+          8010
+        ],
+        [
+          "Triumph",
+          9111
+        ],
+        [
+          "Legend: Tenacity",
+          9105
+        ],
+        [
+          "Last Stand",
+          8299
+        ],
+        [
+          "Celerity",
+          8234
+        ],
+        [
+          "Nimbus Cloak",
+          8275
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    },
+    {
+      "role": "jungle",
+      "paths": [
+        [
+          "Domination",
+          8100
+        ],
+        [
+          "Sorcery",
+          8200
+        ]
+      ],
+      "keystone": [
+        "Predator",
+        8124
+      ],
+      "runes": [
+        [
+          "Predator",
+          8124
+        ],
+        [
+          "Cheap Shot",
+          8126
+        ],
+        [
+          "Eyeball Collection",
+          8138
+        ],
+        [
+          "Relentless Hunter",
+          8105
+        ],
+        [
+          "Celerity",
+          8234
+        ],
+        [
+          "Nimbus Cloak",
+          8275
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "OFFENSE",
+          5008
+        ],
+        [
+          "FLEX",
+          5002
+        ]
+      ]
+    }
+  ]
+}

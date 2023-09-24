@@ -1,0 +1,291 @@
+{
+  "name": "Leona",
+  "current_patch": "13.12",
+  "roles": [
+    {
+      "role": "adc",
+      "paths": [
+        [
+          "Inspiration",
+          8300
+        ],
+        [
+          "Resolve",
+          8400
+        ]
+      ],
+      "keystone": [
+        "Glacial Augment",
+        8351
+      ],
+      "runes": [
+        [
+          "Glacial Augment",
+          8351
+        ],
+        [
+          "Hextech Flashtraption",
+          8306
+        ],
+        [
+          "Biscuit Delivery",
+          8345
+        ],
+        [
+          "Cosmic Insight",
+          8347
+        ],
+        [
+          "Unflinching",
+          8242
+        ],
+        [
+          "Bone Plating",
+          8473
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5007
+        ],
+        [
+          "FLEX",
+          5002
+        ],
+        [
+          "DEFENSE",
+          5001
+        ]
+      ]
+    },
+    {
+      "role": "mid",
+      "paths": [
+        [
+          "Inspiration",
+          8300
+        ],
+        [
+          "Resolve",
+          8400
+        ]
+      ],
+      "keystone": [
+        "Glacial Augment",
+        8351
+      ],
+      "runes": [
+        [
+          "Glacial Augment",
+          8351
+        ],
+        [
+          "Hextech Flashtraption",
+          8306
+        ],
+        [
+          "Biscuit Delivery",
+          8345
+        ],
+        [
+          "Cosmic Insight",
+          8347
+        ],
+        [
+          "Unflinching",
+          8242
+        ],
+        [
+          "Bone Plating",
+          8473
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5007
+        ],
+        [
+          "FLEX",
+          5002
+        ],
+        [
+          "DEFENSE",
+          5001
+        ]
+      ]
+    },
+    {
+      "role": "top",
+      "paths": [
+        [
+          "Resolve",
+          8400
+        ],
+        [
+          "Precision",
+          8000
+        ]
+      ],
+      "keystone": [
+        "Aftershock",
+        8439
+      ],
+      "runes": [
+        [
+          "Aftershock",
+          8439
+        ],
+        [
+          "Font of Life",
+          8463
+        ],
+        [
+          "Second Wind",
+          8444
+        ],
+        [
+          "Overgrowth",
+          8451
+        ],
+        [
+          "Legend: Tenacity",
+          9105
+        ],
+        [
+          "Triumph",
+          9111
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5007
+        ],
+        [
+          "FLEX",
+          5002
+        ],
+        [
+          "FLEX",
+          5003
+        ]
+      ]
+    },
+    {
+      "role": "support",
+      "paths": [
+        [
+          "Inspiration",
+          8300
+        ],
+        [
+          "Resolve",
+          8400
+        ]
+      ],
+      "keystone": [
+        "Glacial Augment",
+        8351
+      ],
+      "runes": [
+        [
+          "Glacial Augment",
+          8351
+        ],
+        [
+          "Hextech Flashtraption",
+          8306
+        ],
+        [
+          "Biscuit Delivery",
+          8345
+        ],
+        [
+          "Cosmic Insight",
+          8347
+        ],
+        [
+          "Unflinching",
+          8242
+        ],
+        [
+          "Bone Plating",
+          8473
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5007
+        ],
+        [
+          "FLEX",
+          5002
+        ],
+        [
+          "DEFENSE",
+          5001
+        ]
+      ]
+    },
+    {
+      "role": "jungle",
+      "paths": [
+        [
+          "Inspiration",
+          8300
+        ],
+        [
+          "Resolve",
+          8400
+        ]
+      ],
+      "keystone": [
+        "Glacial Augment",
+        8351
+      ],
+      "runes": [
+        [
+          "Glacial Augment",
+          8351
+        ],
+        [
+          "Hextech Flashtraption",
+          8306
+        ],
+        [
+          "Biscuit Delivery",
+          8345
+        ],
+        [
+          "Cosmic Insight",
+          8347
+        ],
+        [
+          "Unflinching",
+          8242
+        ],
+        [
+          "Bone Plating",
+          8473
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          5007
+        ],
+        [
+          "FLEX",
+          5002
+        ],
+        [
+          "DEFENSE",
+          5001
+        ]
+      ]
+    }
+  ]
+}

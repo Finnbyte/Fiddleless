@@ -1,0 +1,291 @@
+{
+  "name": "Renata",
+  "current_patch": "13.12",
+  "roles": [
+    {
+      "role": "adc",
+      "paths": [
+        [
+          "Precision",
+          "8000"
+        ],
+        [
+          "Sorcery",
+          "8200"
+        ]
+      ],
+      "keystone": [
+        "Lethal Tempo",
+        "8008"
+      ],
+      "runes": [
+        [
+          "Lethal Tempo",
+          "8008"
+        ],
+        [
+          "Presence of Mind",
+          "8009"
+        ],
+        [
+          "Legend: Alacrity",
+          "9104"
+        ],
+        [
+          "Coup de Grace",
+          "8014"
+        ],
+        [
+          "Absolute Focus",
+          "8233"
+        ],
+        [
+          "Gathering Storm",
+          "8236"
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          "5005"
+        ],
+        [
+          "OFFENSE",
+          "5008"
+        ],
+        [
+          "FLEX",
+          "5002"
+        ]
+      ]
+    },
+    {
+      "role": "mid",
+      "paths": [
+        [
+          "Sorcery",
+          "8200"
+        ],
+        [
+          "Resolve",
+          "8400"
+        ]
+      ],
+      "keystone": [
+        "Summon Aery",
+        "8214"
+      ],
+      "runes": [
+        [
+          "Summon Aery",
+          "8214"
+        ],
+        [
+          "Manaflow Band",
+          "8226"
+        ],
+        [
+          "Transcendence",
+          "8210"
+        ],
+        [
+          "Scorch",
+          "8237"
+        ],
+        [
+          "Revitalize",
+          "8453"
+        ],
+        [
+          "Bone Plating",
+          "8473"
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          "5007"
+        ],
+        [
+          "OFFENSE",
+          "5008"
+        ],
+        [
+          "FLEX",
+          "5002"
+        ]
+      ]
+    },
+    {
+      "role": "top",
+      "paths": [
+        [
+          "Sorcery",
+          "8200"
+        ],
+        [
+          "Resolve",
+          "8400"
+        ]
+      ],
+      "keystone": [
+        "Summon Aery",
+        "8214"
+      ],
+      "runes": [
+        [
+          "Summon Aery",
+          "8214"
+        ],
+        [
+          "Manaflow Band",
+          "8226"
+        ],
+        [
+          "Transcendence",
+          "8210"
+        ],
+        [
+          "Scorch",
+          "8237"
+        ],
+        [
+          "Revitalize",
+          "8453"
+        ],
+        [
+          "Bone Plating",
+          "8473"
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          "5007"
+        ],
+        [
+          "OFFENSE",
+          "5008"
+        ],
+        [
+          "FLEX",
+          "5002"
+        ]
+      ]
+    },
+    {
+      "role": "support",
+      "paths": [
+        [
+          "Resolve",
+          "8400"
+        ],
+        [
+          "Inspiration",
+          "8300"
+        ]
+      ],
+      "keystone": [
+        "Guardian",
+        "8465"
+      ],
+      "runes": [
+        [
+          "Guardian",
+          "8465"
+        ],
+        [
+          "Shield Bash",
+          "8401"
+        ],
+        [
+          "Bone Plating",
+          "8473"
+        ],
+        [
+          "Revitalize",
+          "8453"
+        ],
+        [
+          "Biscuit Delivery",
+          "8345"
+        ],
+        [
+          "Cosmic Insight",
+          "8347"
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          "5005"
+        ],
+        [
+          "OFFENSE",
+          "5008"
+        ],
+        [
+          "FLEX",
+          "5002"
+        ]
+      ]
+    },
+    {
+      "role": "jungle",
+      "paths": [
+        [
+          "Precision",
+          "8000"
+        ],
+        [
+          "Inspiration",
+          "8300"
+        ]
+      ],
+      "keystone": [
+        "Press the Attack",
+        "8005"
+      ],
+      "runes": [
+        [
+          "Press the Attack",
+          "8005"
+        ],
+        [
+          "Triumph",
+          "9111"
+        ],
+        [
+          "Legend: Alacrity",
+          "9104"
+        ],
+        [
+          "Coup de Grace",
+          "8014"
+        ],
+        [
+          "Magical Footwear",
+          "8304"
+        ],
+        [
+          "Cosmic Insight",
+          "8347"
+        ]
+      ],
+      "statMods": [
+        [
+          "OFFENSE",
+          "5005"
+        ],
+        [
+          "OFFENSE",
+          "5008"
+        ],
+        [
+          "DEFENSE",
+          "5001"
+        ]
+      ]
+    }
+  ]
+}
