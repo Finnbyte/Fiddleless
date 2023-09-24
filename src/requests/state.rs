@@ -36,6 +36,10 @@ impl LcuApi {
         }
     }
 
+    pub fn try_establish_connection() -> Self {
+                 
+    }
+
     pub fn get_hovered_champion(&self) -> Result<Option<Champion>, Box<dyn std::error::Error>> {
         let my_selection_url = format!("{}/lol-champ-select/v1/session/my-selection", self.url);
         // Sending a request
